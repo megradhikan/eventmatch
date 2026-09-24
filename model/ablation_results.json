@@ -1,0 +1,250 @@
+[
+  {
+    "label": "(a) string similarity only",
+    "n_features": 8,
+    "features": [
+      "str_lev_ratio_raw",
+      "str_lev_ratio_norm",
+      "str_jaro_winkler_raw",
+      "str_jaro_winkler_norm",
+      "str_token_jaccard_raw",
+      "str_token_jaccard_norm",
+      "str_token_sort_ratio_raw",
+      "str_token_sort_ratio_norm"
+    ],
+    "best_iteration": 7,
+    "val": {
+      "threshold_0.5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "best_f1": {
+        "threshold": 0.3190195579628611,
+        "precision": 0.4362934362934363,
+        "recall": 0.7089084065244667,
+        "f1": 0.5401529636706563
+      },
+      "average_precision": 0.4133249573883708,
+      "top1_accuracy": {
+        "accuracy": 0.7327478042659975,
+        "n_listings": 797
+      }
+    },
+    "test": {
+      "threshold_0.5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "best_f1": {
+        "threshold": 0.3146568194679991,
+        "precision": 0.40493186242699547,
+        "recall": 0.7819548872180451,
+        "f1": 0.5335613510042533
+      },
+      "average_precision": 0.41288458676017314,
+      "top1_accuracy": {
+        "accuracy": 0.7218045112781954,
+        "n_listings": 798
+      }
+    }
+  },
+  {
+    "label": "(b) + date/venue",
+    "n_features": 19,
+    "features": [
+      "str_lev_ratio_raw",
+      "str_lev_ratio_norm",
+      "str_jaro_winkler_raw",
+      "str_jaro_winkler_norm",
+      "str_token_jaccard_raw",
+      "str_token_jaccard_norm",
+      "str_token_sort_ratio_raw",
+      "str_token_sort_ratio_norm",
+      "date_missing",
+      "date_year_inferred",
+      "date_day_diff",
+      "date_exact_match",
+      "date_same_weekday",
+      "venue_missing",
+      "venue_exact_match",
+      "venue_alias_match",
+      "venue_fuzzy_score",
+      "venue_geo_distance_km",
+      "venue_geo_distance_missing"
+    ],
+    "best_iteration": 186,
+    "val": {
+      "threshold_0.5": {
+        "precision": 0.8313513513513513,
+        "recall": 0.9648682559598495,
+        "f1": 0.8931475029036005
+      },
+      "best_f1": {
+        "threshold": 0.9431341043338239,
+        "precision": 0.9667553191489362,
+        "recall": 0.9121706398996235,
+        "f1": 0.938670109747725
+      },
+      "average_precision": 0.9779722382739912,
+      "top1_accuracy": {
+        "accuracy": 0.9611041405269761,
+        "n_listings": 797
+      }
+    },
+    "test": {
+      "threshold_0.5": {
+        "precision": 0.825531914893617,
+        "recall": 0.9724310776942355,
+        "f1": 0.8929804372842347
+      },
+      "best_f1": {
+        "threshold": 0.9618440338350156,
+        "precision": 0.9818941504178273,
+        "recall": 0.8834586466165414,
+        "f1": 0.9300791556723245
+      },
+      "average_precision": 0.984029904934486,
+      "top1_accuracy": {
+        "accuracy": 0.9661654135338346,
+        "n_listings": 798
+      }
+    }
+  },
+  {
+    "label": "(b) + date/venue + blocking/source",
+    "n_features": 24,
+    "features": [
+      "str_lev_ratio_raw",
+      "str_lev_ratio_norm",
+      "str_jaro_winkler_raw",
+      "str_jaro_winkler_norm",
+      "str_token_jaccard_raw",
+      "str_token_jaccard_norm",
+      "str_token_sort_ratio_raw",
+      "str_token_sort_ratio_norm",
+      "date_missing",
+      "date_year_inferred",
+      "date_day_diff",
+      "date_exact_match",
+      "date_same_weekday",
+      "venue_missing",
+      "venue_exact_match",
+      "venue_alias_match",
+      "venue_fuzzy_score",
+      "venue_geo_distance_km",
+      "venue_geo_distance_missing",
+      "blocking_score",
+      "source_official_feed",
+      "source_partner_feed_a",
+      "source_scraped_feed_b",
+      "source_scraped_feed_c"
+    ],
+    "best_iteration": 215,
+    "val": {
+      "threshold_0.5": {
+        "precision": 0.8935185185185185,
+        "recall": 0.9686323713927227,
+        "f1": 0.9295605057194462
+      },
+      "best_f1": {
+        "threshold": 0.9547260790368215,
+        "precision": 0.9698162729658792,
+        "recall": 0.9272271016311167,
+        "f1": 0.9480436177031564
+      },
+      "average_precision": 0.9867929701464395,
+      "top1_accuracy": {
+        "accuracy": 0.9698870765370138,
+        "n_listings": 797
+      }
+    },
+    "test": {
+      "threshold_0.5": {
+        "precision": 0.8688888888888889,
+        "recall": 0.9799498746867168,
+        "f1": 0.9210836277974087
+      },
+      "best_f1": {
+        "threshold": 0.9691116248566504,
+        "precision": 0.9850543478260869,
+        "recall": 0.9085213032581454,
+        "f1": 0.9452411994779883
+      },
+      "average_precision": 0.991212496817429,
+      "top1_accuracy": {
+        "accuracy": 0.9724310776942355,
+        "n_listings": 798
+      }
+    }
+  },
+  {
+    "label": "(c) + embeddings (full feature set)",
+    "n_features": 25,
+    "features": [
+      "str_lev_ratio_raw",
+      "str_lev_ratio_norm",
+      "str_jaro_winkler_raw",
+      "str_jaro_winkler_norm",
+      "str_token_jaccard_raw",
+      "str_token_jaccard_norm",
+      "str_token_sort_ratio_raw",
+      "str_token_sort_ratio_norm",
+      "date_missing",
+      "date_year_inferred",
+      "date_day_diff",
+      "date_exact_match",
+      "date_same_weekday",
+      "venue_missing",
+      "venue_exact_match",
+      "venue_alias_match",
+      "venue_fuzzy_score",
+      "venue_geo_distance_km",
+      "venue_geo_distance_missing",
+      "blocking_score",
+      "source_official_feed",
+      "source_partner_feed_a",
+      "source_scraped_feed_b",
+      "source_scraped_feed_c",
+      "embedding_cosine_sim"
+    ],
+    "best_iteration": 204,
+    "val": {
+      "threshold_0.5": {
+        "precision": 0.8923611111111112,
+        "recall": 0.9673776662484316,
+        "f1": 0.9283564118001204
+      },
+      "best_f1": {
+        "threshold": 0.9587988210019035,
+        "precision": 0.9687906371911573,
+        "recall": 0.9347553324968633,
+        "f1": 0.9514687100888999
+      },
+      "average_precision": 0.9864011287054036,
+      "top1_accuracy": {
+        "accuracy": 0.9673776662484316,
+        "n_listings": 797
+      }
+    },
+    "test": {
+      "threshold_0.5": {
+        "precision": 0.8650442477876106,
+        "recall": 0.9799498746867168,
+        "f1": 0.918918918918919
+      },
+      "best_f1": {
+        "threshold": 0.9555410849981981,
+        "precision": 0.9772423025435074,
+        "recall": 0.9147869674185464,
+        "f1": 0.944983818769727
+      },
+      "average_precision": 0.9907573633486151,
+      "top1_accuracy": {
+        "accuracy": 0.9736842105263158,
+        "n_listings": 798
+      }
+    }
+  }
+]

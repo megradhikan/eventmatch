@@ -1,0 +1,95 @@
+{
+  "label": "full_feature_set",
+  "n_features": 25,
+  "features": [
+    "blocking_score",
+    "str_lev_ratio_raw",
+    "str_lev_ratio_norm",
+    "str_jaro_winkler_raw",
+    "str_jaro_winkler_norm",
+    "str_token_jaccard_raw",
+    "str_token_jaccard_norm",
+    "str_token_sort_ratio_raw",
+    "str_token_sort_ratio_norm",
+    "date_missing",
+    "date_year_inferred",
+    "date_day_diff",
+    "date_exact_match",
+    "date_same_weekday",
+    "venue_missing",
+    "venue_exact_match",
+    "venue_alias_match",
+    "venue_fuzzy_score",
+    "venue_geo_distance_km",
+    "venue_geo_distance_missing",
+    "source_official_feed",
+    "source_partner_feed_a",
+    "source_scraped_feed_b",
+    "source_scraped_feed_c",
+    "embedding_cosine_sim"
+  ],
+  "best_iteration": 218,
+  "val": {
+    "threshold_0.5": {
+      "precision": 0.8994152046783626,
+      "recall": 0.9648682559598495,
+      "f1": 0.9309927360774818
+    },
+    "best_f1": {
+      "threshold": 0.9697879499990887,
+      "precision": 0.9761273209549072,
+      "recall": 0.9234629861982434,
+      "f1": 0.9490651192773856
+    },
+    "average_precision": 0.9862977942539178,
+    "top1_accuracy": {
+      "accuracy": 0.9661229611041405,
+      "n_listings": 797
+    }
+  },
+  "test": {
+    "threshold_0.5": {
+      "precision": 0.8680709534368071,
+      "recall": 0.981203007518797,
+      "f1": 0.9211764705882353
+    },
+    "best_f1": {
+      "threshold": 0.9358037170427154,
+      "precision": 0.9574193548387097,
+      "recall": 0.9298245614035088,
+      "f1": 0.9434202161469889
+    },
+    "average_precision": 0.990496484044892,
+    "top1_accuracy": {
+      "accuracy": 0.9711779448621554,
+      "n_listings": 798
+    }
+  },
+  "feature_importance_gain": {
+    "blocking_score": 44801.76176953316,
+    "str_lev_ratio_raw": 10710.188619613647,
+    "str_lev_ratio_norm": 58232.17403912544,
+    "str_jaro_winkler_raw": 6964.271058082581,
+    "str_jaro_winkler_norm": 11408.000115394592,
+    "str_token_jaccard_raw": 840.2950077056885,
+    "str_token_jaccard_norm": 7506.697256803513,
+    "str_token_sort_ratio_raw": 7724.204089283943,
+    "str_token_sort_ratio_norm": 7106.765549659729,
+    "date_missing": 15692.058291912079,
+    "date_year_inferred": 324.0382704734802,
+    "date_day_diff": 772781.1290946007,
+    "date_exact_match": 1494.6139594316483,
+    "date_same_weekday": 1066.879152059555,
+    "venue_missing": 373.79481649398804,
+    "venue_exact_match": 469.68919229507446,
+    "venue_alias_match": 317.0395493507385,
+    "venue_fuzzy_score": 6335.539176225662,
+    "venue_geo_distance_km": 262145.238576293,
+    "venue_geo_distance_missing": 216.96613025665283,
+    "source_official_feed": 4074.954535961151,
+    "source_partner_feed_a": 6349.998161315918,
+    "source_scraped_feed_b": 629.1165637969971,
+    "source_scraped_feed_c": 323.98998045921326,
+    "embedding_cosine_sim": 9357.705564260483
+  }
+}
