@@ -1,0 +1,536 @@
+event_id,sport,home_team,away_team,venue_canonical,venue_city,venue_state,event_date,venue_lat,venue_lon
+nba_401810943,nba,New Orleans Pelicans,Houston Rockets,Smoothie King Center,New Orleans,LA,2026-03-29T23:00Z,29.949,-90.0821
+nba_401809958,nba,Memphis Grizzlies,Indiana Pacers,FedExForum,Memphis,TN,2025-10-26T00:00Z,35.1382,-90.0505
+nba_401809972,nba,New Orleans Pelicans,Boston Celtics,Smoothie King Center,New Orleans,LA,2025-10-28T00:00Z,29.949,-90.0821
+nba_401810400,nba,Boston Celtics,San Antonio Spurs,TD Garden,Boston,MA,2026-01-11T01:00Z,42.3662,-71.0621
+nba_401873200,nba,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,San Antonio,TX,2026-05-25T00:00Z,29.4269,-98.4375
+nba_401810857,nba,Chicago Bulls,Toronto Raptors,United Center,Chicago,IL,2026-03-19T00:00Z,41.8807,-87.6742
+nba_401810932,nba,Charlotte Hornets,Philadelphia 76ers,Spectrum Center,Charlotte,NC,2026-03-28T22:00Z,35.2251,-80.8392
+nba_401809974,nba,Dallas Mavericks,Oklahoma City Thunder,American Airlines Center,Dallas,TX,2025-10-28T00:30Z,32.7905,-96.8104
+nba_401836797,nba,Indiana Pacers,Washington Wizards,Gainbridge Fieldhouse,Indianapolis,IN,2025-12-14T20:00Z,39.7639,-86.1555
+nba_401810365,nba,Indiana Pacers,Cleveland Cavaliers,Gainbridge Fieldhouse,Indianapolis,IN,2026-01-07T00:00Z,39.7639,-86.1555
+nba_401810182,nba,Atlanta Hawks,LA Clippers,State Farm Arena,Atlanta,GA,2025-12-04T00:30Z,33.7573,-84.3963
+nba_401810134,nba,Toronto Raptors,Brooklyn Nets,Scotiabank Arena,Toronto,ON,2025-11-23T23:00Z,43.6435,-79.3791
+nba_401810744,nba,Chicago Bulls,Oklahoma City Thunder,United Center,Chicago,IL,2026-03-04T01:00Z,41.8807,-87.6742
+nba_401810885,nba,Utah Jazz,Philadelphia 76ers,Delta Center,Salt Lake City,UT,2026-03-22T01:30Z,40.7683,-111.9011
+nfl_401772740,nfl,Buffalo Bills,New Orleans Saints,Highmark Stadium (Old),Orchard Park,NY,2025-09-28T17:00Z,42.7738,-78.787
+nba_401810342,nba,New York Knicks,Philadelphia 76ers,Madison Square Garden,New York,NY,2026-01-04T00:30Z,40.7505,-73.9934
+nba_401810679,nba,Minnesota Timberwolves,Philadelphia 76ers,Target Center,Minneapolis,MN,2026-02-23T00:00Z,44.9795,-93.276
+nba_401810301,nba,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,Los Angeles,CA,2025-12-29T02:30Z,34.043,-118.2673
+nba_401810552,nba,Charlotte Hornets,San Antonio Spurs,Spectrum Center,Charlotte,NC,2026-01-31T17:00Z,35.2251,-80.8392
+nba_401812484,nba,Brooklyn Nets,Hapoel Jerusalem,Barclays Center,Brooklyn,NY,2025-10-05T00:00Z,40.6826,-73.9754
+nba_401810529,nba,Miami Heat,Orlando Magic,Kaseya Center,Miami,FL,2026-01-29T00:30Z,25.7814,-80.187
+nba_401809805,nba,Toronto Raptors,Indiana Pacers,Scotiabank Arena,Toronto,ON,2025-11-27T00:30Z,43.6435,-79.3791
+nfl_401772836,nfl,Pittsburgh Steelers,Seattle Seahawks,Acrisure Stadium,Pittsburgh,PA,2025-09-14T17:00Z,40.4468,-80.0158
+nfl_401772884,nfl,Los Angeles Rams,Seattle Seahawks,SoFi Stadium,Inglewood,CA,2025-11-16T21:05Z,33.9535,-118.3392
+nba_401836751,nba,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,Detroit,MI,2025-12-13T00:00Z,42.341,-83.0553
+nba_401810733,nba,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,Los Angeles,CA,2026-03-02T02:30Z,34.043,-118.2673
+nfl_401772918,nfl,Buffalo Bills,Baltimore Ravens,Highmark Stadium (Old),Orchard Park,NY,2025-09-08T00:20Z,42.7738,-78.787
+nba_401810584,nba,Milwaukee Bucks,New Orleans Pelicans,Fiserv Forum,Milwaukee,WI,2026-02-05T01:00Z,43.045,-87.9172
+nba_401809808,nba,Golden State Warriors,Houston Rockets,Chase Center,San Francisco,CA,2025-11-27T03:00Z,37.768,-122.3878
+nba_401810247,nba,Golden State Warriors,Phoenix Suns,Chase Center,San Francisco,CA,2025-12-21T01:30Z,37.768,-122.3878
+nfl_401772917,nfl,Buffalo Bills,Philadelphia Eagles,Highmark Stadium (Old),Orchard Park,NY,2025-12-28T21:25Z,42.7738,-78.787
+nba_401812698,nba,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,Philadelphia,PA,2025-10-10T23:00Z,39.9012,-75.172
+nba_401810854,nba,Boston Celtics,Golden State Warriors,TD Garden,Boston,MA,2026-03-18T23:00Z,42.3662,-71.0621
+nba_401869404,nba,Philadelphia 76ers,Boston Celtics,Xfinity Mobile Arena,Philadelphia,PA,2026-04-24T23:00Z,39.9012,-75.172
+nba_401809959,nba,Denver Nuggets,Phoenix Suns,Ball Arena,Denver,CO,2025-10-26T01:00Z,39.7487,-105.0077
+nba_401809778,nba,Minnesota Timberwolves,Utah Jazz,Target Center,Minneapolis,MN,2025-11-08T01:00Z,44.9795,-93.276
+nba_401810874,nba,Memphis Grizzlies,Boston Celtics,FedExForum,Memphis,TN,2026-03-21T00:00Z,35.1382,-90.0505
+nba_401810655,nba,Sacramento Kings,Orlando Magic,Golden 1 Center,Sacramento,CA,2026-02-20T03:00Z,38.5802,-121.4997
+nba_401810000,nba,Washington Wizards,Orlando Magic,Capital One Arena,Washington,DC,2025-11-01T23:00Z,38.8981,-77.0209
+nba_401810274,nba,Utah Jazz,Memphis Grizzlies,Delta Center,Salt Lake City,UT,2025-12-24T02:00Z,40.7683,-111.9011
+nba_401810696,nba,Portland Trail Blazers,Minnesota Timberwolves,Moda Center,Portland,OR,2026-02-25T03:00Z,45.5316,-122.6668
+nfl_401772936,nfl,Green Bay Packers,Washington Commanders,Lambeau Field,Green Bay,WI,2025-09-12T00:15Z,44.5013,-88.0622
+nba_401810169,nba,Orlando Magic,Chicago Bulls,Kia Center,Orlando,FL,2025-12-02T00:30Z,28.5392,-81.3839
+nfl_401772817,nfl,Kansas City Chiefs,Washington Commanders,Arrowhead Stadium,Kansas City,MO,2025-10-28T00:15Z,39.0489,-94.4839
+nba_401810112,nba,Miami Heat,Golden State Warriors,Kaseya Center,Miami,FL,2025-11-20T00:30Z,25.7814,-80.187
+nba_401810666,nba,Phoenix Suns,Orlando Magic,Mortgage Matchup Center,Phoenix,AZ,2026-02-21T22:00Z,33.4457,-112.0712
+nfl_401772906,nfl,Philadelphia Eagles,Las Vegas Raiders,Lincoln Financial Field,Philadelphia,PA,2025-12-14T18:00Z,39.9008,-75.1675
+nfl_401772719,nfl,Indianapolis Colts,Miami Dolphins,Lucas Oil Stadium,Indianapolis,IN,2025-09-07T17:00Z,39.7601,-86.1639
+nba_401810186,nba,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,Milwaukee,WI,2025-12-04T01:00Z,43.045,-87.9172
+nba_401810272,nba,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,San Antonio,TX,2025-12-24T01:30Z,29.4269,-98.4375
+nba_401810058,nba,Dallas Mavericks,Milwaukee Bucks,American Airlines Center,Dallas,TX,2025-11-11T01:30Z,32.7905,-96.8104
+nba_401810452,nba,Miami Heat,Oklahoma City Thunder,Kaseya Center,Miami,FL,2026-01-18T01:00Z,25.7814,-80.187
+nba_401810576,nba,Dallas Mavericks,Boston Celtics,American Airlines Center,Dallas,TX,2026-02-04T01:00Z,32.7905,-96.8104
+nba_401809978,nba,Washington Wizards,Philadelphia 76ers,Capital One Arena,Washington,DC,2025-10-28T23:00Z,38.8981,-77.0209
+nba_401809779,nba,Denver Nuggets,Golden State Warriors,Ball Arena,Denver,CO,2025-11-08T03:00Z,39.7487,-105.0077
+nba_401869194,nba,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,San Antonio,TX,2026-04-20T01:00Z,29.4269,-98.4375
+nba_401869414,nba,Orlando Magic,Detroit Pistons,Kia Center,Orlando,FL,2026-04-25T17:00Z,28.5392,-81.3839
+nba_401871329,nba,Los Angeles Lakers,Oklahoma City Thunder,crypto.com Arena,Los Angeles,CA,2026-05-12T02:30Z,34.043,-118.2673
+nba_401809966,nba,Dallas Mavericks,Toronto Raptors,American Airlines Center,Dallas,TX,2025-10-26T23:30Z,32.7905,-96.8104
+nba_401810704,nba,Philadelphia 76ers,Miami Heat,Xfinity Mobile Arena,Philadelphia,PA,2026-02-27T00:00Z,39.9012,-75.172
+nba_401810593,nba,Dallas Mavericks,San Antonio Spurs,American Airlines Center,Dallas,TX,2026-02-06T01:30Z,32.7905,-96.8104
+nba_401810619,nba,Orlando Magic,Milwaukee Bucks,Kia Center,Orlando,FL,2026-02-10T00:30Z,28.5392,-81.3839
+nba_401810479,nba,New Orleans Pelicans,Detroit Pistons,Smoothie King Center,New Orleans,LA,2026-01-22T01:00Z,29.949,-90.0821
+nba_401810634,nba,Brooklyn Nets,Indiana Pacers,Barclays Center,Brooklyn,NY,2026-02-12T00:30Z,40.6826,-73.9754
+nba_401869408,nba,Boston Celtics,Philadelphia 76ers,TD Garden,Boston,MA,2026-04-28T23:00Z,42.3662,-71.0621
+nfl_401772933,nfl,Dallas Cowboys,Minnesota Vikings,AT&T Stadium,Arlington,TX,2025-12-15T01:20Z,32.7473,-97.0945
+nba_401809511,nba,Washington Wizards,Cleveland Cavaliers,Capital One Arena,Washington,DC,2025-11-08T00:00Z,38.8981,-77.0209
+nba_401810183,nba,New York Knicks,Charlotte Hornets,Madison Square Garden,New York,NY,2025-12-04T00:30Z,40.7505,-73.9934
+nba_401810585,nba,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,San Antonio,TX,2026-02-05T02:30Z,29.4269,-98.4375
+nfl_401772888,nfl,Detroit Lions,New York Giants,Ford Field,Detroit,MI,2025-11-23T18:00Z,42.34,-83.0456
+nba_401810260,nba,Denver Nuggets,Utah Jazz,Ball Arena,Denver,CO,2025-12-23T02:00Z,39.7487,-105.0077
+nba_401810716,nba,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,Dallas,TX,2026-02-28T01:30Z,32.7905,-96.8104
+nba_401810927,nba,Denver Nuggets,Utah Jazz,Ball Arena,Denver,CO,2026-03-28T01:00Z,39.7487,-105.0077
+nba_401810916,nba,Portland Trail Blazers,Milwaukee Bucks,Moda Center,Portland,OR,2026-03-26T02:00Z,45.5316,-122.6668
+nba_401810096,nba,Cleveland Cavaliers,Milwaukee Bucks,Rocket Arena,Cleveland,OH,2025-11-18T00:00Z,41.4965,-81.6882
+nfl_401772632,nfl,Pittsburgh Steelers,Minnesota Vikings,Croke Park,Dublin,,2025-09-28T13:30Z,53.3607,-6.2512
+nba_401836752,nba,Philadelphia 76ers,Indiana Pacers,Xfinity Mobile Arena,Philadelphia,PA,2025-12-13T00:00Z,39.9012,-75.172
+nba_401810742,nba,Toronto Raptors,New York Knicks,Scotiabank Arena,Toronto,ON,2026-03-04T00:30Z,43.6435,-79.3791
+nba_401871334,nba,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,Detroit,MI,2026-05-07T23:00Z,42.341,-83.0553
+nba_401810328,nba,Dallas Mavericks,Philadelphia 76ers,American Airlines Center,Dallas,TX,2026-01-02T01:30Z,32.7905,-96.8104
+nba_401810250,nba,LA Clippers,Los Angeles Lakers,Intuit Dome,Inglewood,CA,2025-12-21T03:30Z,33.9425,-118.3411
+nba_401810800,nba,Sacramento Kings,Indiana Pacers,Golden 1 Center,Sacramento,CA,2026-03-11T02:00Z,38.5802,-121.4997
+nfl_401772729,nfl,Indianapolis Colts,Denver Broncos,Lucas Oil Stadium,Indianapolis,IN,2025-09-14T20:05Z,39.7601,-86.1639
+nba_401810434,nba,Detroit Pistons,Phoenix Suns,Little Caesars Arena,Detroit,MI,2026-01-16T00:00Z,42.341,-83.0553
+nba_401812732,nba,Philadelphia 76ers,Minnesota Timberwolves,Xfinity Mobile Arena,Philadelphia,PA,2025-10-17T23:00Z,39.9012,-75.172
+nba_401809992,nba,Phoenix Suns,Memphis Grizzlies,Mortgage Matchup Center,Phoenix,AZ,2025-10-30T02:00Z,33.4457,-112.0712
+nba_401810231,nba,Dallas Mavericks,Detroit Pistons,American Airlines Center,Dallas,TX,2025-12-19T01:30Z,32.7905,-96.8104
+nba_401809975,nba,Utah Jazz,Phoenix Suns,Delta Center,Salt Lake City,UT,2025-10-28T01:00Z,40.7683,-111.9011
+nba_401811038,nba,Portland Trail Blazers,LA Clippers,Moda Center,Portland,OR,2026-04-11T02:00Z,45.5316,-122.6668
+nba_401809504,nba,Cleveland Cavaliers,Toronto Raptors,Rocket Arena,Cleveland,OH,2025-10-31T23:30Z,41.4965,-81.6882
+nba_401812682,nba,Dallas Mavericks,Oklahoma City Thunder,Dickies Arena,Fort Worth,TX,2025-10-07T00:30Z,32.7519,-97.3425
+nfl_401772710,nfl,Washington Commanders,Dallas Cowboys,Northwest Stadium,Landover,MD,2025-12-25T18:00Z,38.9076,-76.8645
+nba_401810952,nba,Oklahoma City Thunder,Detroit Pistons,Paycom Center,Oklahoma City,OK,2026-03-31T01:30Z,35.4634,-97.5151
+nba_401810234,nba,Utah Jazz,Los Angeles Lakers,Delta Center,Salt Lake City,UT,2025-12-19T02:00Z,40.7683,-111.9011
+nba_401810881,nba,Atlanta Hawks,Golden State Warriors,State Farm Arena,Atlanta,GA,2026-03-22T00:00Z,33.7573,-84.3963
+nba_401810951,nba,Utah Jazz,Cleveland Cavaliers,Delta Center,Salt Lake City,UT,2026-03-31T01:00Z,40.7683,-111.9011
+nba_401812711,nba,Atlanta Hawks,Miami Heat,State Farm Arena,Atlanta,GA,2025-10-13T22:00Z,33.7573,-84.3963
+nba_401810450,nba,Detroit Pistons,Indiana Pacers,Little Caesars Arena,Detroit,MI,2026-01-18T00:30Z,42.341,-83.0553
+nba_401809984,nba,Detroit Pistons,Orlando Magic,Little Caesars Arena,Detroit,MI,2025-10-29T23:00Z,42.341,-83.0553
+nba_401810223,nba,Minnesota Timberwolves,Memphis Grizzlies,Target Center,Minneapolis,MN,2025-12-18T01:00Z,44.9795,-93.276
+nba_401810270,nba,Dallas Mavericks,Denver Nuggets,American Airlines Center,Dallas,TX,2025-12-24T01:00Z,32.7905,-96.8104
+nba_401810082,nba,Utah Jazz,Atlanta Hawks,Delta Center,Salt Lake City,UT,2025-11-14T02:00Z,40.7683,-111.9011
+nba_401810672,nba,Oklahoma City Thunder,Cleveland Cavaliers,Paycom Center,Oklahoma City,OK,2026-02-22T18:00Z,35.4634,-97.5151
+nba_401810807,nba,LA Clippers,Minnesota Timberwolves,Intuit Dome,Inglewood,CA,2026-03-12T02:30Z,33.9425,-118.3411
+nba_401838142,nba,Team Stripes,World,Intuit Dome,Inglewood,CA,2026-02-15T23:25Z,33.9425,-118.3411
+nba_401810517,nba,Houston Rockets,Memphis Grizzlies,Toyota Center (Houston),Houston,TX,2026-01-27T01:00Z,29.7508,-95.3621
+nfl_401772953,nfl,Green Bay Packers,Baltimore Ravens,Lambeau Field,Green Bay,WI,2025-12-28T01:00Z,44.5013,-88.0622
+nba_401871328,nba,Los Angeles Lakers,Oklahoma City Thunder,crypto.com Arena,Los Angeles,CA,2026-05-10T00:30Z,34.043,-118.2673
+nfl_401772926,nfl,Washington Commanders,Seattle Seahawks,Northwest Stadium,Landover,MD,2025-11-03T01:20Z,38.9076,-76.8645
+nba_401810396,nba,Los Angeles Lakers,Milwaukee Bucks,crypto.com Arena,Los Angeles,CA,2026-01-10T03:30Z,34.043,-118.2673
+nba_401810205,nba,Brooklyn Nets,New Orleans Pelicans,Barclays Center,Brooklyn,NY,2025-12-06T22:00Z,40.6826,-73.9754
+nfl_401772831,nfl,Seattle Seahawks,San Francisco 49ers,Lumen Field,Seattle,WA,2025-09-07T20:05Z,47.5952,-122.3316
+nfl_401772634,nfl,New York Jets,Denver Broncos,Tottenham Hotspur Stadium,London,,2025-10-12T13:30Z,51.6043,-0.0664
+nba_401836747,nba,Milwaukee Bucks,Boston Celtics,Fiserv Forum,Milwaukee,WI,2025-12-12T01:00Z,43.045,-87.9172
+nba_401810618,nba,Miami Heat,Utah Jazz,Kaseya Center,Miami,FL,2026-02-10T00:30Z,25.7814,-80.187
+nba_401810988,nba,Brooklyn Nets,Washington Wizards,Barclays Center,Brooklyn,NY,2026-04-05T19:30Z,40.6826,-73.9754
+nba_401810826,nba,Boston Celtics,Washington Wizards,TD Garden,Boston,MA,2026-03-14T22:00Z,42.3662,-71.0621
+nfl_401772773,nfl,Seattle Seahawks,Arizona Cardinals,Lumen Field,Seattle,WA,2025-11-09T21:05Z,47.5952,-122.3316
+nba_401809806,nba,Oklahoma City Thunder,Minnesota Timberwolves,Paycom Center,Oklahoma City,OK,2025-11-27T00:30Z,35.4634,-97.5151
+nba_401810872,nba,Detroit Pistons,Golden State Warriors,Little Caesars Arena,Detroit,MI,2026-03-20T23:30Z,42.341,-83.0553
+nba_401810721,nba,Golden State Warriors,Los Angeles Lakers,Chase Center,San Francisco,CA,2026-03-01T01:30Z,37.768,-122.3878
+nba_401869386,nba,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,San Antonio,TX,2026-04-29T01:30Z,29.4269,-98.4375
+nba_401810088,nba,Boston Celtics,LA Clippers,TD Garden,Boston,MA,2025-11-16T20:30Z,42.3662,-71.0621
+nba_401810083,nba,Cleveland Cavaliers,Memphis Grizzlies,Rocket Arena,Cleveland,OH,2025-11-15T22:00Z,41.4965,-81.6882
+nba_401810837,nba,Sacramento Kings,Utah Jazz,Golden 1 Center,Sacramento,CA,2026-03-16T02:00Z,38.5802,-121.4997
+nba_401809995,nba,Oklahoma City Thunder,Washington Wizards,Paycom Center,Oklahoma City,OK,2025-10-31T00:00Z,35.4634,-97.5151
+nba_401810743,nba,Philadelphia 76ers,San Antonio Spurs,Xfinity Mobile Arena,Philadelphia,PA,2026-03-04T01:00Z,39.9012,-75.172
+nba_401810021,nba,Atlanta Hawks,Orlando Magic,State Farm Arena,Atlanta,GA,2025-11-05T01:00Z,33.7573,-84.3963
+nfl_401772798,nfl,Kansas City Chiefs,Los Angeles Chargers,Arrowhead Stadium,Kansas City,MO,2025-12-14T18:00Z,39.0489,-94.4839
+nfl_401772880,nfl,Minnesota Vikings,Chicago Bears,U.S. Bank Stadium,Minneapolis,MN,2025-11-16T18:00Z,44.9738,-93.2575
+nba_401810256,nba,Sacramento Kings,Houston Rockets,Golden 1 Center,Sacramento,CA,2025-12-22T03:00Z,38.5802,-121.4997
+nba_401809973,nba,San Antonio Spurs,Toronto Raptors,Frost Bank Center,San Antonio,TX,2025-10-28T00:00Z,29.4269,-98.4375
+nba_401810253,nba,New York Knicks,Miami Heat,Madison Square Garden,New York,NY,2025-12-21T23:00Z,40.7505,-73.9934
+nba_401810387,nba,Boston Celtics,Toronto Raptors,TD Garden,Boston,MA,2026-01-10T00:00Z,42.3662,-71.0621
+nba_401810497,nba,Portland Trail Blazers,Toronto Raptors,Moda Center,Portland,OR,2026-01-24T03:00Z,45.5316,-122.6668
+nba_401810064,nba,Philadelphia 76ers,Boston Celtics,Xfinity Mobile Arena,Philadelphia,PA,2025-11-12T01:00Z,39.9012,-75.172
+nba_401812707,nba,Boston Celtics,Cleveland Cavaliers,TD Garden,Boston,MA,2025-10-12T23:00Z,42.3662,-71.0621
+nba_401810748,nba,New York Knicks,Oklahoma City Thunder,Madison Square Garden,New York,NY,2026-03-05T00:00Z,40.7505,-73.9934
+nba_401810421,nba,Milwaukee Bucks,Minnesota Timberwolves,Fiserv Forum,Milwaukee,WI,2026-01-14T01:00Z,43.045,-87.9172
+nba_401810972,nba,Golden State Warriors,Cleveland Cavaliers,Chase Center,San Francisco,CA,2026-04-03T02:00Z,37.768,-122.3878
+nba_401812481,nba,New Orleans Pelicans,Melbourne United,Rod Laver Arena,Melbourne,VIC,2025-10-03T09:30Z,-37.8199,144.9834
+nba_401810833,nba,Toronto Raptors,Detroit Pistons,Scotiabank Arena,Toronto,ON,2026-03-15T19:30Z,43.6435,-79.3791
+nba_401810851,nba,Minnesota Timberwolves,Phoenix Suns,Target Center,Minneapolis,MN,2026-03-18T00:00Z,44.9795,-93.276
+nba_401810147,nba,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,Sacramento,CA,2025-11-25T03:00Z,38.5802,-121.4997
+nba_401810518,nba,Minnesota Timberwolves,Golden State Warriors,Target Center,Minneapolis,MN,2026-01-27T02:30Z,44.9795,-93.276
+nfl_401772772,nfl,Tampa Bay Buccaneers,New England Patriots,Raymond James Stadium,Tampa,FL,2025-11-09T18:00Z,27.9759,-82.5033
+nfl_401772807,nfl,Cleveland Browns,Pittsburgh Steelers,Huntington Bank Field,Cleveland,OH,2025-12-28T18:00Z,41.5061,-81.6995
+nfl_401772891,nfl,Detroit Lions,Green Bay Packers,Ford Field,Detroit,MI,2025-11-27T18:00Z,42.34,-83.0456
+nfl_401772923,nfl,Kansas City Chiefs,Detroit Lions,Arrowhead Stadium,Kansas City,MO,2025-10-13T00:20Z,39.0489,-94.4839
+nba_401811054,nba,LA Clippers,Golden State Warriors,Intuit Dome,Inglewood,CA,2026-04-13T00:30Z,33.9425,-118.3411
+nba_401810369,nba,New Orleans Pelicans,Los Angeles Lakers,Smoothie King Center,New Orleans,LA,2026-01-07T01:00Z,29.949,-90.0821
+nba_401811026,nba,Charlotte Hornets,Detroit Pistons,Spectrum Center,Charlotte,NC,2026-04-10T23:00Z,35.2251,-80.8392
+nba_401810052,nba,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,Sacramento,CA,2025-11-10T02:00Z,38.5802,-121.4997
+nba_401810787,nba,Brooklyn Nets,Memphis Grizzlies,Barclays Center,Brooklyn,NY,2026-03-09T23:30Z,40.6826,-73.9754
+nba_401810159,nba,Philadelphia 76ers,Atlanta Hawks,Xfinity Mobile Arena,Philadelphia,PA,2025-11-30T23:00Z,39.9012,-75.172
+nba_401810773,nba,Memphis Grizzlies,LA Clippers,FedExForum,Memphis,TN,2026-03-08T01:00Z,35.1382,-90.0505
+nba_401810297,nba,Oklahoma City Thunder,Philadelphia 76ers,Paycom Center,Oklahoma City,OK,2025-12-28T20:30Z,35.4634,-97.5151
+nfl_401772747,nfl,Arizona Cardinals,Tennessee Titans,State Farm Stadium,Glendale,AZ,2025-10-05T20:05Z,33.5276,-112.2626
+nfl_401772814,nfl,Jacksonville Jaguars,Kansas City Chiefs,EverBank Stadium,Jacksonville,FL,2025-10-07T00:15Z,30.3239,-81.6373
+nba_401812486,nba,Denver Nuggets,Minnesota Timberwolves,Pechanga Arena,San Diego,CA,2025-10-05T01:00Z,32.7573,-117.2197
+nba_401810677,nba,Washington Wizards,Charlotte Hornets,Capital One Arena,Washington,DC,2026-02-22T23:00Z,38.8981,-77.0209
+nba_401810140,nba,Brooklyn Nets,New York Knicks,Barclays Center,Brooklyn,NY,2025-11-25T00:30Z,40.6826,-73.9754
+nba_401810642,nba,Denver Nuggets,Memphis Grizzlies,Ball Arena,Denver,CO,2026-02-12T02:00Z,39.7487,-105.0077
+nba_401810359,nba,Toronto Raptors,Atlanta Hawks,Scotiabank Arena,Toronto,ON,2026-01-06T00:30Z,43.6435,-79.3791
+nfl_401772959,nfl,Philadelphia Eagles,Washington Commanders,Lincoln Financial Field,Philadelphia,PA,2026-01-04T21:25Z,39.9008,-75.1675
+nfl_401772801,nfl,New Orleans Saints,New York Jets,Caesars Superdome,New Orleans,LA,2025-12-21T18:00Z,29.9511,-90.0812
+nba_401866757,nba,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,Philadelphia,PA,2026-04-15T23:30Z,39.9012,-75.172
+nfl_401772786,nfl,Tennessee Titans,Jacksonville Jaguars,Nissan Stadium,Nashville,TN,2025-11-30T18:00Z,36.1665,-86.7713
+nba_401810846,nba,Charlotte Hornets,Miami Heat,Spectrum Center,Charlotte,NC,2026-03-17T23:00Z,35.2251,-80.8392
+nba_401859963,nba,San Antonio Spurs,New York Knicks,Frost Bank Center,San Antonio,TX,2026-06-04T00:30Z,29.4269,-98.4375
+nba_401810069,nba,Detroit Pistons,Chicago Bulls,Little Caesars Arena,Detroit,MI,2025-11-13T00:00Z,42.341,-83.0553
+nfl_401772853,nfl,Los Angeles Chargers,Washington Commanders,SoFi Stadium,Inglewood,CA,2025-10-05T20:25Z,33.9535,-118.3392
+nfl_401772943,nfl,Miami Dolphins,Baltimore Ravens,Hard Rock Stadium,Miami Gardens,FL,2025-10-31T00:15Z,25.958,-80.2389
+nba_401812691,nba,New York Knicks,Minnesota Timberwolves,Madison Square Garden,New York,NY,2025-10-09T23:30Z,40.7505,-73.9934
+nba_401810880,nba,New Orleans Pelicans,Cleveland Cavaliers,Smoothie King Center,New Orleans,LA,2026-03-21T23:00Z,29.949,-90.0821
+nba_401810277,nba,LA Clippers,Houston Rockets,Intuit Dome,Inglewood,CA,2025-12-24T03:30Z,33.9425,-118.3411
+nba_401810830,nba,LA Clippers,Sacramento Kings,Intuit Dome,Inglewood,CA,2026-03-15T02:30Z,33.9425,-118.3411
+nba_401810706,nba,Brooklyn Nets,San Antonio Spurs,Barclays Center,Brooklyn,NY,2026-02-27T00:30Z,40.6826,-73.9754
+nba_401810965,nba,Houston Rockets,Milwaukee Bucks,Toyota Center (Houston),Houston,TX,2026-04-02T00:00Z,29.7508,-95.3621
+nba_401810534,nba,Houston Rockets,San Antonio Spurs,Toyota Center (Houston),Houston,TX,2026-01-29T02:42Z,29.7508,-95.3621
+nba_401810540,nba,Phoenix Suns,Detroit Pistons,Mortgage Matchup Center,Phoenix,AZ,2026-01-30T02:00Z,33.4457,-112.0712
+nba_401809983,nba,Boston Celtics,Cleveland Cavaliers,TD Garden,Boston,MA,2025-10-29T23:00Z,42.3662,-71.0621
+nba_401810967,nba,Utah Jazz,Denver Nuggets,Delta Center,Salt Lake City,UT,2026-04-02T01:00Z,40.7683,-111.9011
+nfl_401772969,nfl,Tampa Bay Buccaneers,Carolina Panthers,Raymond James Stadium,Tampa,FL,2026-01-03T21:30Z,27.9759,-82.5033
+nba_401873201,nba,Oklahoma City Thunder,San Antonio Spurs,Paycom Center,Oklahoma City,OK,2026-05-27T00:30Z,35.4634,-97.5151
+nba_401810144,nba,New Orleans Pelicans,Chicago Bulls,Smoothie King Center,New Orleans,LA,2025-11-25T01:00Z,29.949,-90.0821
+nba_401811031,nba,New York Knicks,Toronto Raptors,Madison Square Garden,New York,NY,2026-04-10T23:30Z,40.7505,-73.9934
+nba_401810130,nba,Philadelphia 76ers,Miami Heat,Xfinity Mobile Arena,Philadelphia,PA,2025-11-23T18:00Z,39.9012,-75.172
+nba_401810059,nba,Phoenix Suns,New Orleans Pelicans,Mortgage Matchup Center,Phoenix,AZ,2025-11-11T02:00Z,33.4457,-112.0712
+nba_401809952,nba,Portland Trail Blazers,Golden State Warriors,Moda Center,Portland,OR,2025-10-25T02:00Z,45.5316,-122.6668
+nba_401810032,nba,Dallas Mavericks,New Orleans Pelicans,American Airlines Center,Dallas,TX,2025-11-06T01:30Z,32.7905,-96.8104
+nba_401810758,nba,Minnesota Timberwolves,Toronto Raptors,Target Center,Minneapolis,MN,2026-03-06T01:00Z,44.9795,-93.276
+nba_401810791,nba,Philadelphia 76ers,Memphis Grizzlies,Xfinity Mobile Arena,Philadelphia,PA,2026-03-10T23:00Z,39.9012,-75.172
+nba_401810109,nba,Portland Trail Blazers,Phoenix Suns,Moda Center,Portland,OR,2025-11-19T04:00Z,45.5316,-122.6668
+nfl_401772780,nfl,Chicago Bears,Pittsburgh Steelers,Soldier Field,Chicago,IL,2025-11-23T18:00Z,41.8623,-87.6167
+nba_401810496,nba,Oklahoma City Thunder,Indiana Pacers,Paycom Center,Oklahoma City,OK,2026-01-24T01:00Z,35.4634,-97.5151
+nba_401810569,nba,Memphis Grizzlies,Minnesota Timberwolves,FedExForum,Memphis,TN,2026-02-03T00:30Z,35.1382,-90.0505
+nba_401810942,nba,Portland Trail Blazers,Washington Wizards,Moda Center,Portland,OR,2026-03-29T22:00Z,45.5316,-122.6668
+nba_401810629,nba,Los Angeles Lakers,San Antonio Spurs,crypto.com Arena,Los Angeles,CA,2026-02-11T03:30Z,34.043,-118.2673
+nba_401810944,nba,Oklahoma City Thunder,New York Knicks,Paycom Center,Oklahoma City,OK,2026-03-29T23:30Z,35.4634,-97.5151
+nfl_401772766,nfl,Pittsburgh Steelers,Indianapolis Colts,Acrisure Stadium,Pittsburgh,PA,2025-11-02T18:00Z,40.4468,-80.0158
+nba_401810296,nba,Toronto Raptors,Golden State Warriors,Scotiabank Arena,Toronto,ON,2025-12-28T20:30Z,43.6435,-79.3791
+nba_401810850,nba,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,Milwaukee,WI,2026-03-18T00:00Z,43.045,-87.9172
+nfl_401772809,nfl,Tennessee Titans,New Orleans Saints,Nissan Stadium,Nashville,TN,2025-12-28T18:00Z,36.1665,-86.7713
+nfl_401772872,nfl,Green Bay Packers,Carolina Panthers,Lambeau Field,Green Bay,WI,2025-11-02T18:00Z,44.5013,-88.0622
+nba_401810268,nba,Indiana Pacers,Milwaukee Bucks,Gainbridge Fieldhouse,Indianapolis,IN,2025-12-24T00:30Z,39.7639,-86.1555
+nfl_401772967,nfl,Buffalo Bills,New York Jets,Highmark Stadium (Old),Orchard Park,NY,2026-01-04T21:25Z,42.7738,-78.787
+nba_401810300,nba,LA Clippers,Detroit Pistons,Intuit Dome,Inglewood,CA,2025-12-29T02:00Z,33.9425,-118.3411
+nba_401810118,nba,Portland Trail Blazers,Chicago Bulls,Moda Center,Portland,OR,2025-11-20T03:00Z,45.5316,-122.6668
+nba_401810687,nba,Atlanta Hawks,Washington Wizards,State Farm Arena,Atlanta,GA,2026-02-25T00:30Z,33.7573,-84.3963
+nba_401869187,nba,Cleveland Cavaliers,Toronto Raptors,Rocket Arena,Cleveland,OH,2026-04-18T17:00Z,41.4965,-81.6882
+nba_401810563,nba,New York Knicks,Los Angeles Lakers,Madison Square Garden,New York,NY,2026-02-02T00:00Z,40.7505,-73.9934
+nba_401810770,nba,Minnesota Timberwolves,Orlando Magic,Target Center,Minneapolis,MN,2026-03-07T20:00Z,44.9795,-93.276
+nba_401869377,nba,Toronto Raptors,Cleveland Cavaliers,Scotiabank Arena,Toronto,ON,2026-04-26T17:00Z,43.6435,-79.3791
+nba_401836749,nba,Sacramento Kings,Denver Nuggets,Golden 1 Center,Sacramento,CA,2025-12-12T03:00Z,38.5802,-121.4997
+nba_401810402,nba,Utah Jazz,Charlotte Hornets,Delta Center,Salt Lake City,UT,2026-01-11T02:30Z,40.7683,-111.9011
+nfl_401772745,nfl,Philadelphia Eagles,Denver Broncos,Lincoln Financial Field,Philadelphia,PA,2025-10-05T17:00Z,39.9008,-75.1675
+nba_401810908,nba,Philadelphia 76ers,Chicago Bulls,Xfinity Mobile Arena,Philadelphia,PA,2026-03-25T23:00Z,39.9012,-75.172
+nba_401836746,nba,Houston Rockets,LA Clippers,Toyota Center (Houston),Houston,TX,2025-12-12T01:00Z,29.7508,-95.3621
+nba_401809989,nba,Denver Nuggets,New Orleans Pelicans,Ball Arena,Denver,CO,2025-10-30T01:00Z,39.7487,-105.0077
+nba_401810306,nba,Toronto Raptors,Orlando Magic,Scotiabank Arena,Toronto,ON,2025-12-30T00:30Z,43.6435,-79.3791
+nba_401810573,nba,Washington Wizards,New York Knicks,Capital One Arena,Washington,DC,2026-02-04T00:00Z,38.8981,-77.0209
+nba_401810404,nba,Memphis Grizzlies,Brooklyn Nets,FedExForum,Memphis,TN,2026-01-11T20:30Z,35.1382,-90.0505
+nfl_401772825,nfl,Atlanta Falcons,Los Angeles Rams,Mercedes-Benz Stadium,Atlanta,GA,2025-12-30T01:15Z,33.7554,-84.4008
+nba_401810232,nba,Denver Nuggets,Orlando Magic,Ball Arena,Denver,CO,2025-12-19T02:00Z,39.7487,-105.0077
+nba_401809969,nba,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,Philadelphia,PA,2025-10-27T23:00Z,39.9012,-75.172
+nba_401810422,nba,New Orleans Pelicans,Denver Nuggets,Smoothie King Center,New Orleans,LA,2026-01-14T01:00Z,29.949,-90.0821
+nfl_401772714,nfl,Los Angeles Chargers,Kansas City Chiefs,Corinthians Arena,Sao Paulo,,2025-09-06T00:00Z,-23.5453,-46.4742
+nba_401836801,nba,Minnesota Timberwolves,Sacramento Kings,Target Center,Minneapolis,MN,2025-12-15T00:00Z,44.9795,-93.276
+nba_401810887,nba,Denver Nuggets,Portland Trail Blazers,Ball Arena,Denver,CO,2026-03-22T21:00Z,39.7487,-105.0077
+nfl_401772827,nfl,Washington Commanders,New York Giants,Northwest Stadium,Landover,MD,2025-09-07T17:00Z,38.9076,-76.8645
+nba_401866755,nba,Charlotte Hornets,Miami Heat,Spectrum Center,Charlotte,NC,2026-04-14T23:30Z,35.2251,-80.8392
+nba_401810310,nba,Oklahoma City Thunder,Atlanta Hawks,Paycom Center,Oklahoma City,OK,2025-12-30T01:00Z,35.4634,-97.5151
+nba_401810530,nba,Toronto Raptors,New York Knicks,Scotiabank Arena,Toronto,ON,2026-01-29T00:30Z,43.6435,-79.3791
+nba_401810694,nba,Phoenix Suns,Boston Celtics,Mortgage Matchup Center,Phoenix,AZ,2026-02-25T02:00Z,33.4457,-112.0712
+nba_401809802,nba,Boston Celtics,Detroit Pistons,TD Garden,Boston,MA,2025-11-26T22:00Z,42.3662,-71.0621
+nfl_401772956,nfl,Denver Broncos,Los Angeles Chargers,Empower Field at Mile High,Denver,CO,2026-01-04T21:25Z,39.7439,-105.0201
+nfl_401772717,nfl,Washington Commanders,Chicago Bears,Northwest Stadium,Landover,MD,2025-10-14T00:15Z,38.9076,-76.8645
+nba_401810840,nba,Brooklyn Nets,Portland Trail Blazers,Barclays Center,Brooklyn,NY,2026-03-16T23:30Z,40.6826,-73.9754
+nba_401809818,nba,Denver Nuggets,San Antonio Spurs,Ball Arena,Denver,CO,2025-11-29T02:30Z,39.7487,-105.0077
+nba_401811046,nba,Philadelphia 76ers,Milwaukee Bucks,Xfinity Mobile Arena,Philadelphia,PA,2026-04-12T22:00Z,39.9012,-75.172
+nba_401810993,nba,New Orleans Pelicans,Orlando Magic,Smoothie King Center,New Orleans,LA,2026-04-05T23:00Z,29.949,-90.0821
+nba_401809505,nba,Chicago Bulls,New York Knicks,United Center,Chicago,IL,2025-11-01T00:00Z,41.8807,-87.6742
+nba_401869396,nba,Boston Celtics,Philadelphia 76ers,TD Garden,Boston,MA,2026-04-21T23:00Z,42.3662,-71.0621
+nba_401859966,nba,New York Knicks,San Antonio Spurs,Madison Square Garden,New York,NY,2026-06-11T00:30Z,40.7505,-73.9934
+nfl_401772732,nfl,New England Patriots,Pittsburgh Steelers,Gillette Stadium,Foxborough,MA,2025-09-21T17:00Z,42.0909,-71.2643
+nba_401810304,nba,Brooklyn Nets,Golden State Warriors,Barclays Center,Brooklyn,NY,2025-12-30T00:30Z,40.6826,-73.9754
+nba_401871161,nba,Philadelphia 76ers,New York Knicks,Xfinity Mobile Arena,Philadelphia,PA,2026-05-08T23:00Z,39.9012,-75.172
+nba_401809834,nba,Toronto Raptors,New York Knicks,Scotiabank Arena,Toronto,ON,2025-12-10T01:30Z,43.6435,-79.3791
+nba_401810481,nba,Sacramento Kings,Toronto Raptors,Golden 1 Center,Sacramento,CA,2026-01-22T03:00Z,38.5802,-121.4997
+nba_401810511,nba,LA Clippers,Brooklyn Nets,Intuit Dome,Inglewood,CA,2026-01-26T02:00Z,33.9425,-118.3411
+nba_401809801,nba,Los Angeles Lakers,LA Clippers,crypto.com Arena,Los Angeles,CA,2025-11-26T04:00Z,34.043,-118.2673
+nba_401810501,nba,Orlando Magic,Cleveland Cavaliers,Kia Center,Orlando,FL,2026-01-25T00:00Z,28.5392,-81.3839
+nba_401811047,nba,Toronto Raptors,Brooklyn Nets,Scotiabank Arena,Toronto,ON,2026-04-12T22:00Z,43.6435,-79.3791
+nba_401810676,nba,Indiana Pacers,Dallas Mavericks,Gainbridge Fieldhouse,Indianapolis,IN,2026-02-22T22:00Z,39.7639,-86.1555
+nfl_401772934,nfl,Miami Dolphins,Cincinnati Bengals,Hard Rock Stadium,Miami Gardens,FL,2025-12-21T18:00Z,25.958,-80.2389
+nfl_401772823,nfl,Pittsburgh Steelers,Miami Dolphins,Acrisure Stadium,Pittsburgh,PA,2025-12-16T01:15Z,40.4468,-80.0158
+nba_401810041,nba,Cleveland Cavaliers,Chicago Bulls,Rocket Arena,Cleveland,OH,2025-11-09T01:00Z,41.4965,-81.6882
+nfl_401772952,nfl,Carolina Panthers,Seattle Seahawks,Bank of America Stadium,Charlotte,NC,2025-12-28T18:00Z,35.2258,-80.8528
+nba_401810009,nba,Phoenix Suns,San Antonio Spurs,Mortgage Matchup Center,Phoenix,AZ,2025-11-03T01:00Z,33.4457,-112.0712
+nba_401810350,nba,Orlando Magic,Indiana Pacers,Kia Center,Orlando,FL,2026-01-04T20:00Z,28.5392,-81.3839
+nfl_401772785,nfl,Cleveland Browns,San Francisco 49ers,Huntington Bank Field,Cleveland,OH,2025-11-30T18:00Z,41.5061,-81.6995
+nba_401810229,nba,Milwaukee Bucks,Toronto Raptors,Fiserv Forum,Milwaukee,WI,2025-12-19T01:00Z,43.045,-87.9172
+nba_401869407,nba,Los Angeles Lakers,Houston Rockets,crypto.com Arena,Los Angeles,CA,2026-04-30T02:00Z,34.043,-118.2673
+nba_401809949,nba,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,New Orleans,LA,2025-10-25T00:00Z,29.949,-90.0821
+nba_401809996,nba,San Antonio Spurs,Miami Heat,Frost Bank Center,San Antonio,TX,2025-10-31T00:30Z,29.4269,-98.4375
+nfl_401772734,nfl,Jacksonville Jaguars,Houston Texans,EverBank Stadium,Jacksonville,FL,2025-09-21T17:00Z,30.3239,-81.6373
+nba_401810187,nba,Dallas Mavericks,Miami Heat,American Airlines Center,Dallas,TX,2025-12-04T01:30Z,32.7905,-96.8104
+nba_401810929,nba,Portland Trail Blazers,Dallas Mavericks,Moda Center,Portland,OR,2026-03-28T02:00Z,45.5316,-122.6668
+nba_401810494,nba,Memphis Grizzlies,New Orleans Pelicans,FedExForum,Memphis,TN,2026-01-24T01:00Z,35.1382,-90.0505
+nba_401811012,nba,Phoenix Suns,Houston Rockets,Mortgage Matchup Center,Phoenix,AZ,2026-04-08T03:00Z,33.4457,-112.0712
+nba_401811034,nba,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,Milwaukee,WI,2026-04-11T00:00Z,43.045,-87.9172
+nba_401810358,nba,Boston Celtics,Chicago Bulls,TD Garden,Boston,MA,2026-01-06T00:30Z,42.3662,-71.0621
+nba_401810877,nba,Washington Wizards,Oklahoma City Thunder,Capital One Arena,Washington,DC,2026-03-21T21:00Z,38.8981,-77.0209
+nba_401810007,nba,Toronto Raptors,Memphis Grizzlies,Scotiabank Arena,Toronto,ON,2025-11-02T23:00Z,43.6435,-79.3791
+nba_401810528,nba,Boston Celtics,Atlanta Hawks,TD Garden,Boston,MA,2026-01-29T00:30Z,42.3662,-71.0621
+nba_401809788,nba,Dallas Mavericks,LA Clippers,American Airlines Center,Dallas,TX,2025-11-15T01:30Z,32.7905,-96.8104
+nba_401810845,nba,LA Clippers,San Antonio Spurs,Intuit Dome,Inglewood,CA,2026-03-17T02:00Z,33.9425,-118.3411
+nba_401810688,nba,Brooklyn Nets,Dallas Mavericks,Barclays Center,Brooklyn,NY,2026-02-25T00:30Z,40.6826,-73.9754
+nfl_401772941,nfl,Cincinnati Bengals,Pittsburgh Steelers,Paycor Stadium,Cincinnati,OH,2025-10-17T00:15Z,39.0954,-84.516
+nba_401809943,nba,Orlando Magic,Atlanta Hawks,Kia Center,Orlando,FL,2025-10-24T23:00Z,28.5392,-81.3839
+nba_401810299,nba,Portland Trail Blazers,Boston Celtics,Moda Center,Portland,OR,2025-12-28T23:00Z,45.5316,-122.6668
+nba_401810982,nba,Dallas Mavericks,Orlando Magic,American Airlines Center,Dallas,TX,2026-04-04T00:30Z,32.7905,-96.8104
+nba_401810462,nba,Los Angeles Lakers,Toronto Raptors,crypto.com Arena,Los Angeles,CA,2026-01-19T02:30Z,34.043,-118.2673
+nba_401810489,nba,Portland Trail Blazers,Miami Heat,Moda Center,Portland,OR,2026-01-23T03:00Z,45.5316,-122.6668
+nba_401809776,nba,Memphis Grizzlies,Dallas Mavericks,FedExForum,Memphis,TN,2025-11-08T01:00Z,35.1382,-90.0505
+nba_401810531,nba,Memphis Grizzlies,Charlotte Hornets,FedExForum,Memphis,TN,2026-01-29T01:00Z,35.1382,-90.0505
+nba_401810035,nba,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,Portland,OR,2025-11-06T03:00Z,45.5316,-122.6668
+nfl_401772970,nfl,Jacksonville Jaguars,Tennessee Titans,EverBank Stadium,Jacksonville,FL,2026-01-04T18:00Z,30.3239,-81.6373
+nba_401810447,nba,Sacramento Kings,Washington Wizards,Golden 1 Center,Sacramento,CA,2026-01-17T03:00Z,38.5802,-121.4997
+nfl_401772928,nfl,Philadelphia Eagles,Detroit Lions,Lincoln Financial Field,Philadelphia,PA,2025-11-17T01:20Z,39.9008,-75.1675
+nba_401836754,nba,Memphis Grizzlies,Utah Jazz,FedExForum,Memphis,TN,2025-12-13T01:00Z,35.1382,-90.0505
+nba_401810135,nba,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,Oklahoma City,OK,2025-11-24T00:00Z,35.4634,-97.5151
+nfl_401772805,nfl,Houston Texans,Las Vegas Raiders,Reliant Stadium,Houston,TX,2025-12-21T21:25Z,29.6847,-95.4107
+nba_401810454,nba,Golden State Warriors,Charlotte Hornets,Chase Center,San Francisco,CA,2026-01-18T01:30Z,37.768,-122.3878
+nba_401810617,nba,Brooklyn Nets,Chicago Bulls,Barclays Center,Brooklyn,NY,2026-02-10T00:30Z,40.6826,-73.9754
+nfl_401772837,nfl,Kansas City Chiefs,Philadelphia Eagles,Arrowhead Stadium,Kansas City,MO,2025-09-14T20:25Z,39.0489,-94.4839
+nba_401810143,nba,Milwaukee Bucks,Portland Trail Blazers,Fiserv Forum,Milwaukee,WI,2025-11-25T01:00Z,43.045,-87.9172
+nfl_401772881,nfl,Tennessee Titans,Houston Texans,Nissan Stadium,Nashville,TN,2025-11-16T18:00Z,36.1665,-86.7713
+nba_401812681,nba,San Antonio Spurs,Guangzhou Loong-Lions,Frost Bank Center,San Antonio,TX,2025-10-07T00:00Z,29.4269,-98.4375
+nba_401810327,nba,Detroit Pistons,Miami Heat,Little Caesars Arena,Detroit,MI,2026-01-02T00:00Z,42.341,-83.0553
+nba_401810953,nba,Los Angeles Lakers,Washington Wizards,crypto.com Arena,Los Angeles,CA,2026-03-31T02:00Z,34.043,-118.2673
+nba_401810667,nba,New Orleans Pelicans,Philadelphia 76ers,Smoothie King Center,New Orleans,LA,2026-02-22T00:00Z,29.949,-90.0821
+nba_401839699,nba,Phoenix Suns,Los Angeles Lakers,Mortgage Matchup Center,Phoenix,AZ,2025-12-15T01:00Z,33.4457,-112.0712
+nba_401810611,nba,Sacramento Kings,Cleveland Cavaliers,Golden 1 Center,Sacramento,CA,2026-02-08T03:00Z,38.5802,-121.4997
+nfl_401772964,nfl,Cincinnati Bengals,Cleveland Browns,Paycor Stadium,Cincinnati,OH,2026-01-04T18:00Z,39.0954,-84.516
+nfl_401772731,nfl,Minnesota Vikings,Cincinnati Bengals,U.S. Bank Stadium,Minneapolis,MN,2025-09-21T17:00Z,44.9738,-93.2575
+nba_401869411,nba,Detroit Pistons,Orlando Magic,Little Caesars Arena,Detroit,MI,2026-04-22T23:00Z,42.341,-83.0553
+nfl_401772633,nfl,Cleveland Browns,Minnesota Vikings,Tottenham Hotspur Stadium,London,,2025-10-05T13:30Z,51.6043,-0.0664
+nba_401810201,nba,Houston Rockets,Phoenix Suns,Toyota Center (Houston),Houston,TX,2025-12-06T01:00Z,29.7508,-95.3621
+nba_401810892,nba,Atlanta Hawks,Memphis Grizzlies,State Farm Arena,Atlanta,GA,2026-03-23T23:30Z,33.7573,-84.3963
+nba_401812722,nba,Charlotte Hornets,Memphis Grizzlies,First Horizon Coliseum,Greensboro,NC,2025-10-15T23:00Z,36.0726,-79.8286
+nba_401810978,nba,New York Knicks,Chicago Bulls,Madison Square Garden,New York,NY,2026-04-03T23:30Z,40.7505,-73.9934
+nba_401810782,nba,San Antonio Spurs,Houston Rockets,Frost Bank Center,San Antonio,TX,2026-03-09T00:00Z,29.4269,-98.4375
+nba_401810239,nba,Cleveland Cavaliers,Chicago Bulls,Rocket Arena,Cleveland,OH,2025-12-20T00:30Z,41.4965,-81.6882
+nba_401836798,nba,Atlanta Hawks,Philadelphia 76ers,State Farm Arena,Atlanta,GA,2025-12-14T23:00Z,33.7573,-84.3963
+nba_401810037,nba,Phoenix Suns,LA Clippers,Mortgage Matchup Center,Phoenix,AZ,2025-11-07T02:00Z,33.4457,-112.0712
+nba_401812729,nba,Chicago Bulls,Minnesota Timberwolves,United Center,Chicago,IL,2025-10-17T00:00Z,41.8807,-87.6742
+nba_401812733,nba,New York Knicks,Charlotte Hornets,Madison Square Garden,New York,NY,2025-10-17T23:30Z,40.7505,-73.9934
+nba_401810616,nba,Charlotte Hornets,Detroit Pistons,Spectrum Center,Charlotte,NC,2026-02-10T00:00Z,35.2251,-80.8392
+nba_401810956,nba,Detroit Pistons,Toronto Raptors,Little Caesars Arena,Detroit,MI,2026-04-01T00:00Z,42.341,-83.0553
+nba_401810024,nba,Golden State Warriors,Phoenix Suns,Chase Center,San Francisco,CA,2025-11-05T03:00Z,37.768,-122.3878
+nba_401810863,nba,Charlotte Hornets,Orlando Magic,Spectrum Center,Charlotte,NC,2026-03-19T23:00Z,35.2251,-80.8392
+nfl_401772866,nfl,Houston Texans,San Francisco 49ers,Reliant Stadium,Houston,TX,2025-10-26T17:00Z,29.6847,-95.4107
+nba_401873197,nba,Oklahoma City Thunder,San Antonio Spurs,Paycom Center,Oklahoma City,OK,2026-05-19T00:30Z,35.4634,-97.5151
+nba_401810044,nba,Denver Nuggets,Indiana Pacers,Ball Arena,Denver,CO,2025-11-09T02:00Z,39.7487,-105.0077
+nfl_401772826,nfl,Seattle Seahawks,Houston Texans,Lumen Field,Seattle,WA,2025-10-21T02:00Z,47.5952,-122.3316
+nba_401810111,nba,Indiana Pacers,Charlotte Hornets,Gainbridge Fieldhouse,Indianapolis,IN,2025-11-20T00:00Z,39.7639,-86.1555
+nba_401836807,nba,LA Clippers,Memphis Grizzlies,Intuit Dome,Inglewood,CA,2025-12-16T03:30Z,33.9425,-118.3411
+nba_401810264,nba,Charlotte Hornets,Washington Wizards,Spectrum Center,Charlotte,NC,2025-12-24T00:00Z,35.2251,-80.8392
+nba_401810321,nba,Chicago Bulls,New Orleans Pelicans,United Center,Chicago,IL,2026-01-01T00:00Z,41.8807,-87.6742
+nfl_401772762,nfl,Denver Broncos,Dallas Cowboys,Empower Field at Mile High,Denver,CO,2025-10-26T20:25Z,39.7439,-105.0201
+nba_401812719,nba,Denver Nuggets,Chicago Bulls,Ball Arena,Denver,CO,2025-10-15T01:00Z,39.7487,-105.0077
+nba_401810063,nba,New York Knicks,Memphis Grizzlies,Madison Square Garden,New York,NY,2025-11-12T00:30Z,40.7505,-73.9934
+nba_401811055,nba,Portland Trail Blazers,Sacramento Kings,Moda Center,Portland,OR,2026-04-13T00:30Z,45.5316,-122.6668
+fake_0,nba,Toronto Raptors,Portland Trail Blazers,Scotiabank Arena,Toronto,ON,2028-02-25T19:00Z,43.6435,-79.3791
+fake_1,nba,Phoenix Suns,Denver Nuggets,Mortgage Matchup Center,Phoenix,AZ,2027-12-03T19:00Z,33.4457,-112.0712
+fake_2,nba,New York Knicks,Orlando Magic,Madison Square Garden,New York,NY,2027-07-23T19:00Z,40.7505,-73.9934
+fake_3,nfl,Green Bay Packers,Atlanta Hawks,Lambeau Field,Green Bay,WI,2027-12-13T19:00Z,44.5013,-88.0622
+fake_4,nba,Portland Trail Blazers,Boston Celtics,Moda Center,Portland,OR,2027-02-01T19:00Z,45.5316,-122.6668
+fake_5,nba,Washington Wizards,Indiana Pacers,Capital One Arena,Washington,DC,2028-05-04T19:00Z,38.8981,-77.0209
+fake_6,nba,Detroit Pistons,Phoenix Suns,Little Caesars Arena,Detroit,MI,2027-07-15T19:00Z,42.341,-83.0553
+fake_7,nba,Denver Nuggets,Indiana Pacers,Ball Arena,Denver,CO,2028-02-01T19:00Z,39.7487,-105.0077
+fake_8,nba,Boston Celtics,Atlanta Hawks,TD Garden,Boston,MA,2027-10-20T19:00Z,42.3662,-71.0621
+fake_9,nfl,Arizona Cardinals,Denver Nuggets,State Farm Stadium,Glendale,AZ,2028-01-10T19:00Z,33.5276,-112.2626
+fake_10,nba,Minnesota Timberwolves,Memphis Grizzlies,Target Center,Minneapolis,MN,2027-12-18T19:00Z,44.9795,-93.276
+fake_11,nba,Denver Nuggets,New York Knicks,Ball Arena,Denver,CO,2027-11-13T19:00Z,39.7487,-105.0077
+fake_12,nba,Indiana Pacers,Houston Rockets,Gainbridge Fieldhouse,Indianapolis,IN,2028-05-09T19:00Z,39.7639,-86.1555
+fake_13,nba,Houston Rockets,Brooklyn Nets,Toyota Center (Houston),Houston,TX,2027-03-14T19:00Z,29.7508,-95.3621
+fake_14,nba,Toronto Raptors,Indiana Pacers,Scotiabank Arena,Toronto,ON,2028-08-26T19:00Z,43.6435,-79.3791
+fake_15,nba,Oklahoma City Thunder,Sacramento Kings,Paycom Center,Oklahoma City,OK,2028-04-24T19:00Z,35.4634,-97.5151
+fake_16,nba,Charlotte Hornets,Dallas Mavericks,Spectrum Center,Charlotte,NC,2027-08-04T19:00Z,35.2251,-80.8392
+fake_17,nba,Denver Nuggets,Milwaukee Bucks,Ball Arena,Denver,CO,2027-07-11T19:00Z,39.7487,-105.0077
+fake_18,nba,Denver Nuggets,Charlotte Hornets,Ball Arena,Denver,CO,2028-08-11T19:00Z,39.7487,-105.0077
+fake_19,nba,Boston Celtics,Miami Dolphins,TD Garden,Boston,MA,2027-05-11T19:00Z,42.3662,-71.0621
+fake_20,nba,Milwaukee Bucks,San Francisco 49ers,Fiserv Forum,Milwaukee,WI,2027-08-11T19:00Z,43.045,-87.9172
+fake_21,nba,Cleveland Cavaliers,New Orleans Pelicans,Rocket Arena,Cleveland,OH,2028-05-24T19:00Z,41.4965,-81.6882
+fake_22,nfl,New Orleans Saints,Washington Wizards,Caesars Superdome,New Orleans,LA,2028-10-26T19:00Z,29.9511,-90.0812
+fake_23,nba,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,New Orleans,LA,2028-05-27T19:00Z,29.949,-90.0821
+fake_24,nfl,Tampa Bay Buccaneers,Dallas Mavericks,Raymond James Stadium,Tampa,FL,2028-02-19T19:00Z,27.9759,-82.5033
+fake_25,nba,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,Milwaukee,WI,2027-11-25T19:00Z,43.045,-87.9172
+fake_26,nba,Houston Rockets,Toronto Raptors,Toyota Center (Houston),Houston,TX,2028-12-07T19:00Z,29.7508,-95.3621
+fake_27,nba,Team Stripes,Minnesota Vikings,Intuit Dome,Inglewood,CA,2028-12-03T19:00Z,33.9425,-118.3411
+fake_28,nfl,Dallas Cowboys,Buffalo Bills,AT&T Stadium,Arlington,TX,2028-11-16T19:00Z,32.7473,-97.0945
+fake_29,nba,Indiana Pacers,Detroit Pistons,Gainbridge Fieldhouse,Indianapolis,IN,2028-04-09T19:00Z,39.7639,-86.1555
+fake_30,nba,Denver Nuggets,Orlando Magic,Ball Arena,Denver,CO,2028-07-03T19:00Z,39.7487,-105.0077
+fake_31,nba,New Orleans Pelicans,Minnesota Timberwolves,Smoothie King Center,New Orleans,LA,2028-10-13T19:00Z,29.949,-90.0821
+fake_32,nba,Boston Celtics,Charlotte Hornets,TD Garden,Boston,MA,2028-09-02T19:00Z,42.3662,-71.0621
+fake_33,nfl,Los Angeles Rams,Houston Rockets,SoFi Stadium,Inglewood,CA,2027-02-25T19:00Z,33.9535,-118.3392
+fake_34,nba,Minnesota Timberwolves,Detroit Pistons,Target Center,Minneapolis,MN,2028-03-21T19:00Z,44.9795,-93.276
+fake_35,nba,Memphis Grizzlies,Boston Celtics,FedExForum,Memphis,TN,2028-06-26T19:00Z,35.1382,-90.0505
+fake_36,nba,Boston Celtics,Indiana Pacers,TD Garden,Boston,MA,2027-02-09T19:00Z,42.3662,-71.0621
+fake_37,nba,Miami Heat,Washington Wizards,Kaseya Center,Miami,FL,2027-08-12T19:00Z,25.7814,-80.187
+fake_38,nba,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,Philadelphia,PA,2027-06-01T19:00Z,39.9012,-75.172
+fake_39,nba,Utah Jazz,Oklahoma City Thunder,Delta Center,Salt Lake City,UT,2028-07-03T19:00Z,40.7683,-111.9011
+fake_40,nba,Miami Heat,Los Angeles Rams,Kaseya Center,Miami,FL,2027-06-10T19:00Z,25.7814,-80.187
+fake_41,nba,Denver Nuggets,New York Knicks,Ball Arena,Denver,CO,2027-09-16T19:00Z,39.7487,-105.0077
+fake_42,nba,Golden State Warriors,San Antonio Spurs,Chase Center,San Francisco,CA,2027-08-24T19:00Z,37.768,-122.3878
+fake_43,nfl,Baltimore Ravens,Toronto Raptors,M&T Bank Stadium,Baltimore,MD,2028-02-10T19:00Z,39.278,-76.6227
+fake_44,nba,Houston Rockets,New Orleans Saints,Toyota Center (Houston),Houston,TX,2027-01-28T19:00Z,29.7508,-95.3621
+fake_45,nba,Denver Nuggets,Philadelphia 76ers,Ball Arena,Denver,CO,2027-11-26T19:00Z,39.7487,-105.0077
+fake_46,nba,Miami Heat,San Francisco 49ers,Kaseya Center,Miami,FL,2027-09-06T19:00Z,25.7814,-80.187
+fake_47,nba,Washington Wizards,Chicago Bulls,Capital One Arena,Washington,DC,2028-09-14T19:00Z,38.8981,-77.0209
+fake_48,nba,Phoenix Suns,Philadelphia 76ers,Mortgage Matchup Center,Phoenix,AZ,2028-11-06T19:00Z,33.4457,-112.0712
+fake_49,nba,Boston Celtics,Portland Trail Blazers,TD Garden,Boston,MA,2028-07-01T19:00Z,42.3662,-71.0621
+fake_50,nfl,Atlanta Falcons,Chicago Bulls,Mercedes-Benz Stadium,Atlanta,GA,2027-08-19T19:00Z,33.7554,-84.4008
+fake_51,nba,Cleveland Cavaliers,LA Clippers,Rocket Arena,Cleveland,OH,2027-12-07T19:00Z,41.4965,-81.6882
+fake_52,nba,Memphis Grizzlies,Philadelphia 76ers,FedExForum,Memphis,TN,2027-10-04T19:00Z,35.1382,-90.0505
+fake_53,nfl,Detroit Lions,Miami Heat,Ford Field,Detroit,MI,2027-06-11T19:00Z,42.34,-83.0456
+fake_54,nba,Detroit Pistons,Utah Jazz,Little Caesars Arena,Detroit,MI,2027-05-22T19:00Z,42.341,-83.0553
+fake_55,nba,Philadelphia 76ers,Washington Wizards,Xfinity Mobile Arena,Philadelphia,PA,2028-10-13T19:00Z,39.9012,-75.172
+fake_56,nba,Golden State Warriors,Minnesota Timberwolves,Chase Center,San Francisco,CA,2027-06-12T19:00Z,37.768,-122.3878
+fake_57,nba,Houston Rockets,Oklahoma City Thunder,Toyota Center (Houston),Houston,TX,2027-11-23T19:00Z,29.7508,-95.3621
+fake_58,nfl,Baltimore Ravens,San Antonio Spurs,M&T Bank Stadium,Baltimore,MD,2027-11-05T19:00Z,39.278,-76.6227
+fake_59,nba,Detroit Pistons,Phoenix Suns,Little Caesars Arena,Detroit,MI,2027-05-04T19:00Z,42.341,-83.0553
+fake_60,nba,Miami Heat,Memphis Grizzlies,Kaseya Center,Miami,FL,2027-09-13T19:00Z,25.7814,-80.187
+fake_61,nba,Los Angeles Lakers,Denver Nuggets,crypto.com Arena,Los Angeles,CA,2027-10-13T19:00Z,34.043,-118.2673
+fake_62,nba,Miami Heat,Portland Trail Blazers,Kaseya Center,Miami,FL,2028-11-18T19:00Z,25.7814,-80.187
+fake_63,nfl,Detroit Lions,Phoenix Suns,Ford Field,Detroit,MI,2027-09-06T19:00Z,42.34,-83.0456
+fake_64,nba,Philadelphia 76ers,Detroit Pistons,Xfinity Mobile Arena,Philadelphia,PA,2027-03-11T19:00Z,39.9012,-75.172
+fake_65,nba,New York Knicks,Minnesota Timberwolves,Madison Square Garden,New York,NY,2027-06-01T19:00Z,40.7505,-73.9934
+fake_66,nba,Orlando Magic,Boston Celtics,Kia Center,Orlando,FL,2027-07-18T19:00Z,28.5392,-81.3839
+fake_67,nba,Portland Trail Blazers,San Antonio Spurs,Moda Center,Portland,OR,2028-07-22T19:00Z,45.5316,-122.6668
+fake_68,nba,Washington Wizards,Houston Rockets,Capital One Arena,Washington,DC,2028-08-06T19:00Z,38.8981,-77.0209
+fake_69,nba,Houston Rockets,Orlando Magic,Toyota Center (Houston),Houston,TX,2027-04-10T19:00Z,29.7508,-95.3621
+fake_70,nba,Miami Heat,Phoenix Suns,Kaseya Center,Miami,FL,2027-09-10T19:00Z,25.7814,-80.187
+fake_71,nba,Brooklyn Nets,Tennessee Titans,Barclays Center,Brooklyn,NY,2028-10-24T19:00Z,40.6826,-73.9754
+fake_72,nfl,Philadelphia Eagles,New York Giants,Lincoln Financial Field,Philadelphia,PA,2028-09-17T19:00Z,39.9008,-75.1675
+fake_73,nba,Utah Jazz,New Orleans Pelicans,Delta Center,Salt Lake City,UT,2027-05-25T19:00Z,40.7683,-111.9011
+fake_74,nba,New Orleans Pelicans,Sacramento Kings,Smoothie King Center,New Orleans,LA,2027-12-15T19:00Z,29.949,-90.0821
+fake_75,nba,Miami Heat,Philadelphia 76ers,Kaseya Center,Miami,FL,2028-02-24T19:00Z,25.7814,-80.187
+fake_76,nba,Orlando Magic,New York Giants,Kia Center,Orlando,FL,2027-05-28T19:00Z,28.5392,-81.3839
+fake_77,nba,Miami Heat,Detroit Pistons,Kaseya Center,Miami,FL,2028-06-28T19:00Z,25.7814,-80.187
+fake_78,nfl,Pittsburgh Steelers,Phoenix Suns,Acrisure Stadium,Pittsburgh,PA,2028-02-25T19:00Z,40.4468,-80.0158
+fake_79,nfl,New York Giants,Orlando Magic,MetLife Stadium,East Rutherford,NJ,2027-12-19T19:00Z,40.8135,-74.0745
+fake_80,nfl,Denver Broncos,Los Angeles Lakers,Empower Field at Mile High,Denver,CO,2028-03-20T19:00Z,39.7439,-105.0201
+fake_81,nba,Indiana Pacers,Houston Texans,Gainbridge Fieldhouse,Indianapolis,IN,2027-04-26T19:00Z,39.7639,-86.1555
+fake_82,nba,Minnesota Timberwolves,Dallas Mavericks,Target Center,Minneapolis,MN,2028-09-09T19:00Z,44.9795,-93.276
+fake_83,nba,Golden State Warriors,Cleveland Cavaliers,Chase Center,San Francisco,CA,2027-06-23T19:00Z,37.768,-122.3878
+fake_84,nba,Detroit Pistons,Indiana Pacers,Little Caesars Arena,Detroit,MI,2028-09-22T19:00Z,42.341,-83.0553
+fake_85,nfl,Los Angeles Rams,Detroit Pistons,SoFi Stadium,Inglewood,CA,2027-07-02T19:00Z,33.9535,-118.3392
+fake_86,nba,Oklahoma City Thunder,San Antonio Spurs,Paycom Center,Oklahoma City,OK,2027-12-28T19:00Z,35.4634,-97.5151
+fake_87,nba,Detroit Pistons,Memphis Grizzlies,Little Caesars Arena,Detroit,MI,2027-12-11T19:00Z,42.341,-83.0553
+fake_88,nba,Miami Heat,Seattle Seahawks,Kaseya Center,Miami,FL,2028-08-05T19:00Z,25.7814,-80.187
+fake_89,nba,Portland Trail Blazers,Orlando Magic,Moda Center,Portland,OR,2028-11-14T19:00Z,45.5316,-122.6668
+fake_90,nba,Philadelphia 76ers,Brooklyn Nets,Xfinity Mobile Arena,Philadelphia,PA,2027-11-26T19:00Z,39.9012,-75.172
+fake_91,nfl,Arizona Cardinals,Golden State Warriors,State Farm Stadium,Glendale,AZ,2028-09-24T19:00Z,33.5276,-112.2626
+fake_92,nba,Detroit Pistons,New England Patriots,Little Caesars Arena,Detroit,MI,2028-08-16T19:00Z,42.341,-83.0553
+fake_93,nba,Chicago Bulls,Miami Heat,United Center,Chicago,IL,2027-12-03T19:00Z,41.8807,-87.6742
+fake_94,nfl,Chicago Bears,Philadelphia 76ers,Soldier Field,Chicago,IL,2028-02-26T19:00Z,41.8623,-87.6167
+fake_95,nba,Boston Celtics,Oklahoma City Thunder,TD Garden,Boston,MA,2027-07-27T19:00Z,42.3662,-71.0621
+fake_96,nba,Milwaukee Bucks,Los Angeles Lakers,Fiserv Forum,Milwaukee,WI,2028-06-27T19:00Z,43.045,-87.9172
+fake_97,nba,Phoenix Suns,Boston Celtics,Mortgage Matchup Center,Phoenix,AZ,2027-10-28T19:00Z,33.4457,-112.0712
+fake_98,nba,Miami Heat,Washington Commanders,Kaseya Center,Miami,FL,2028-11-25T19:00Z,25.7814,-80.187
+fake_99,nba,Orlando Magic,Washington Wizards,Kia Center,Orlando,FL,2027-11-26T19:00Z,28.5392,-81.3839
+fake_100,nba,Toronto Raptors,Oklahoma City Thunder,Scotiabank Arena,Toronto,ON,2027-03-15T19:00Z,43.6435,-79.3791
+fake_101,nba,LA Clippers,Melbourne United,Intuit Dome,Inglewood,CA,2028-04-23T19:00Z,33.9425,-118.3411
+fake_102,nba,Cleveland Cavaliers,Phoenix Suns,Rocket Arena,Cleveland,OH,2028-03-28T19:00Z,41.4965,-81.6882
+fake_103,nba,Indiana Pacers,LA Clippers,Gainbridge Fieldhouse,Indianapolis,IN,2028-05-03T19:00Z,39.7639,-86.1555
+fake_104,nba,Cleveland Cavaliers,Los Angeles Lakers,Rocket Arena,Cleveland,OH,2027-01-13T19:00Z,41.4965,-81.6882
+fake_105,nba,Washington Wizards,Indiana Pacers,Capital One Arena,Washington,DC,2027-07-21T19:00Z,38.8981,-77.0209
+fake_106,nba,Dallas Mavericks,Atlanta Falcons,American Airlines Center,Dallas,TX,2027-01-07T19:00Z,32.7905,-96.8104
+fake_107,nba,Brooklyn Nets,Utah Jazz,Barclays Center,Brooklyn,NY,2027-10-08T19:00Z,40.6826,-73.9754
+fake_108,nba,Atlanta Hawks,New York Knicks,State Farm Arena,Atlanta,GA,2028-01-01T19:00Z,33.7573,-84.3963
+fake_109,nfl,New York Jets,Portland Trail Blazers,MetLife Stadium,East Rutherford,NJ,2027-07-23T19:00Z,40.8135,-74.0745
+fake_110,nba,Cleveland Cavaliers,Minnesota Timberwolves,Rocket Arena,Cleveland,OH,2027-04-13T19:00Z,41.4965,-81.6882
+fake_111,nba,Indiana Pacers,New Orleans Saints,Gainbridge Fieldhouse,Indianapolis,IN,2027-02-11T19:00Z,39.7639,-86.1555
+fake_112,nba,Memphis Grizzlies,Dallas Mavericks,FedExForum,Memphis,TN,2027-07-25T19:00Z,35.1382,-90.0505
+fake_113,nfl,Buffalo Bills,New England Patriots,Highmark Stadium (Old),Orchard Park,NY,2027-11-22T19:00Z,42.7738,-78.787
+fake_114,nba,Portland Trail Blazers,Golden State Warriors,Moda Center,Portland,OR,2027-10-21T19:00Z,45.5316,-122.6668
+fake_115,nba,Miami Heat,Atlanta Hawks,Kaseya Center,Miami,FL,2028-12-07T19:00Z,25.7814,-80.187
+fake_116,nba,Chicago Bulls,New Orleans Saints,United Center,Chicago,IL,2027-07-20T19:00Z,41.8807,-87.6742
+fake_117,nfl,New England Patriots,Boston Celtics,Gillette Stadium,Foxborough,MA,2027-02-04T19:00Z,42.0909,-71.2643
+fake_118,nba,Philadelphia 76ers,Cleveland Browns,Xfinity Mobile Arena,Philadelphia,PA,2027-10-24T19:00Z,39.9012,-75.172
+fake_119,nba,Dallas Mavericks,Toronto Raptors,American Airlines Center,Dallas,TX,2028-06-26T19:00Z,32.7905,-96.8104
+fake_120,nba,Philadelphia 76ers,Denver Nuggets,Xfinity Mobile Arena,Philadelphia,PA,2028-11-03T19:00Z,39.9012,-75.172
+fake_121,nba,Minnesota Timberwolves,Cleveland Cavaliers,Target Center,Minneapolis,MN,2028-12-01T19:00Z,44.9795,-93.276
+fake_122,nba,Denver Nuggets,New Orleans Pelicans,Ball Arena,Denver,CO,2027-09-20T19:00Z,39.7487,-105.0077
+fake_123,nba,Philadelphia 76ers,Denver Nuggets,Xfinity Mobile Arena,Philadelphia,PA,2028-05-21T19:00Z,39.9012,-75.172
+fake_124,nba,LA Clippers,Chicago Bears,Intuit Dome,Inglewood,CA,2027-08-13T19:00Z,33.9425,-118.3411
+fake_125,nba,Oklahoma City Thunder,Houston Rockets,Paycom Center,Oklahoma City,OK,2028-11-20T19:00Z,35.4634,-97.5151
+fake_126,nba,Cleveland Cavaliers,Orlando Magic,Rocket Arena,Cleveland,OH,2027-06-11T19:00Z,41.4965,-81.6882
+fake_127,nba,Cleveland Cavaliers,Sacramento Kings,Rocket Arena,Cleveland,OH,2028-06-18T19:00Z,41.4965,-81.6882
+fake_128,nba,New York Knicks,Memphis Grizzlies,Madison Square Garden,New York,NY,2028-02-01T19:00Z,40.7505,-73.9934
+fake_129,nba,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,San Antonio,TX,2027-05-07T19:00Z,29.4269,-98.4375
+fake_130,nba,Utah Jazz,Portland Trail Blazers,Delta Center,Salt Lake City,UT,2028-09-10T19:00Z,40.7683,-111.9011
+fake_131,nba,Milwaukee Bucks,Jacksonville Jaguars,Fiserv Forum,Milwaukee,WI,2028-07-23T19:00Z,43.045,-87.9172
+fake_132,nba,Miami Heat,Washington Wizards,Kaseya Center,Miami,FL,2027-05-03T19:00Z,25.7814,-80.187
+fake_133,nba,Denver Nuggets,Memphis Grizzlies,Ball Arena,Denver,CO,2027-03-18T19:00Z,39.7487,-105.0077
+fake_134,nba,Philadelphia 76ers,Atlanta Hawks,Xfinity Mobile Arena,Philadelphia,PA,2027-05-23T19:00Z,39.9012,-75.172
+fake_135,nba,Team Stars,Pittsburgh Steelers,Intuit Dome,Inglewood,CA,2027-01-08T19:00Z,33.9425,-118.3411
+fake_136,nba,Chicago Bulls,Sacramento Kings,United Center,Chicago,IL,2027-08-20T19:00Z,41.8807,-87.6742
+fake_137,nba,Minnesota Timberwolves,Los Angeles Lakers,Target Center,Minneapolis,MN,2028-11-24T19:00Z,44.9795,-93.276
+fake_138,nba,Phoenix Suns,San Francisco 49ers,Mortgage Matchup Center,Phoenix,AZ,2027-02-01T19:00Z,33.4457,-112.0712
+fake_139,nfl,Arizona Cardinals,Memphis Grizzlies,State Farm Stadium,Glendale,AZ,2027-03-16T19:00Z,33.5276,-112.2626
+fake_140,nba,Philadelphia 76ers,Phoenix Suns,Xfinity Mobile Arena,Philadelphia,PA,2028-03-12T19:00Z,39.9012,-75.172
+fake_141,nba,Indiana Pacers,Arizona Cardinals,Gainbridge Fieldhouse,Indianapolis,IN,2028-12-04T19:00Z,39.7639,-86.1555
+fake_142,nfl,Detroit Lions,Houston Rockets,Ford Field,Detroit,MI,2028-07-09T19:00Z,42.34,-83.0456
+fake_143,nba,Dallas Mavericks,Cleveland Cavaliers,American Airlines Center,Dallas,TX,2028-12-19T19:00Z,32.7905,-96.8104
+fake_144,nba,New York Knicks,New Orleans Pelicans,Madison Square Garden,New York,NY,2028-08-17T19:00Z,40.7505,-73.9934
+fake_145,nba,Atlanta Hawks,Cleveland Cavaliers,State Farm Arena,Atlanta,GA,2028-10-06T19:00Z,33.7573,-84.3963
+fake_146,nba,Minnesota Timberwolves,Cleveland Cavaliers,Target Center,Minneapolis,MN,2028-02-19T19:00Z,44.9795,-93.276
+fake_147,nba,San Antonio Spurs,Denver Broncos,Frost Bank Center,San Antonio,TX,2027-04-24T19:00Z,29.4269,-98.4375
+fake_148,nba,LA Clippers,Orlando Magic,Intuit Dome,Inglewood,CA,2027-01-08T19:00Z,33.9425,-118.3411
+fake_149,nba,Dallas Mavericks,Brooklyn Nets,American Airlines Center,Dallas,TX,2028-07-05T19:00Z,32.7905,-96.8104
+fake_150,nba,Portland Trail Blazers,Golden State Warriors,Moda Center,Portland,OR,2028-04-11T19:00Z,45.5316,-122.6668
+fake_151,nba,Minnesota Timberwolves,Dallas Mavericks,Target Center,Minneapolis,MN,2028-05-27T19:00Z,44.9795,-93.276
+fake_152,nba,Charlotte Hornets,Toronto Raptors,Spectrum Center,Charlotte,NC,2028-02-17T19:00Z,35.2251,-80.8392
+fake_153,nba,Cleveland Cavaliers,New York Knicks,Rocket Arena,Cleveland,OH,2027-04-26T19:00Z,41.4965,-81.6882
+fake_154,nba,Utah Jazz,Washington Wizards,Delta Center,Salt Lake City,UT,2028-02-15T19:00Z,40.7683,-111.9011
+fake_155,nba,Milwaukee Bucks,Jacksonville Jaguars,Fiserv Forum,Milwaukee,WI,2028-06-03T19:00Z,43.045,-87.9172
+fake_156,nba,Orlando Magic,San Antonio Spurs,Kia Center,Orlando,FL,2027-06-07T19:00Z,28.5392,-81.3839
+fake_157,nba,Sacramento Kings,Milwaukee Bucks,Golden 1 Center,Sacramento,CA,2028-12-20T19:00Z,38.5802,-121.4997
+fake_158,nba,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,New Orleans,LA,2028-10-16T19:00Z,29.949,-90.0821
+fake_159,nfl,Philadelphia Eagles,Los Angeles Rams,Lincoln Financial Field,Philadelphia,PA,2027-12-18T19:00Z,39.9008,-75.1675
+fake_160,nfl,Pittsburgh Steelers,Kansas City Chiefs,Acrisure Stadium,Pittsburgh,PA,2027-03-01T19:00Z,40.4468,-80.0158
+fake_161,nba,Toronto Raptors,Detroit Pistons,Scotiabank Arena,Toronto,ON,2027-09-12T19:00Z,43.6435,-79.3791
+fake_162,nba,Dallas Mavericks,Chicago Bears,American Airlines Center,Dallas,TX,2027-06-01T19:00Z,32.7905,-96.8104
+fake_163,nfl,Tennessee Titans,Detroit Pistons,Nissan Stadium,Nashville,TN,2028-12-24T19:00Z,36.1665,-86.7713
+fake_164,nba,Boston Celtics,Brooklyn Nets,TD Garden,Boston,MA,2027-09-08T19:00Z,42.3662,-71.0621
+fake_165,nba,Sacramento Kings,Utah Jazz,Golden 1 Center,Sacramento,CA,2027-03-23T19:00Z,38.5802,-121.4997
+fake_166,nba,Indiana Pacers,Golden State Warriors,Gainbridge Fieldhouse,Indianapolis,IN,2027-04-28T19:00Z,39.7639,-86.1555
+fake_167,nba,Miami Heat,New York Knicks,Kaseya Center,Miami,FL,2028-08-24T19:00Z,25.7814,-80.187
+fake_168,nba,LA Clippers,Utah Jazz,Intuit Dome,Inglewood,CA,2027-09-05T19:00Z,33.9425,-118.3411
+fake_169,nba,Oklahoma City Thunder,Chicago Bulls,Paycom Center,Oklahoma City,OK,2027-10-19T19:00Z,35.4634,-97.5151
+fake_170,nba,Oklahoma City Thunder,Memphis Grizzlies,Paycom Center,Oklahoma City,OK,2027-04-10T19:00Z,35.4634,-97.5151
+fake_171,nba,Chicago Bulls,New Orleans Pelicans,United Center,Chicago,IL,2028-12-27T19:00Z,41.8807,-87.6742
+fake_172,nfl,San Francisco 49ers,Toronto Raptors,Levi's Stadium,Santa Clara,CA,2028-08-09T19:00Z,37.403,-121.97
+fake_173,nba,Denver Nuggets,Minnesota Timberwolves,Ball Arena,Denver,CO,2027-03-25T19:00Z,39.7487,-105.0077
+fake_174,nfl,Los Angeles Rams,New York Knicks,SoFi Stadium,Inglewood,CA,2027-03-04T19:00Z,33.9535,-118.3392
+fake_175,nba,Miami Heat,Memphis Grizzlies,Kaseya Center,Miami,FL,2028-06-14T19:00Z,25.7814,-80.187
+fake_176,nba,Utah Jazz,Los Angeles Lakers,Delta Center,Salt Lake City,UT,2028-04-15T19:00Z,40.7683,-111.9011
+fake_177,nba,Washington Wizards,Orlando Magic,Capital One Arena,Washington,DC,2028-02-03T19:00Z,38.8981,-77.0209
+fake_178,nba,Toronto Raptors,New York Giants,Scotiabank Arena,Toronto,ON,2028-12-23T19:00Z,43.6435,-79.3791
+fake_179,nba,Milwaukee Bucks,San Antonio Spurs,Fiserv Forum,Milwaukee,WI,2027-06-05T19:00Z,43.045,-87.9172
+fake_180,nba,Dallas Mavericks,Philadelphia Eagles,American Airlines Center,Dallas,TX,2027-06-13T19:00Z,32.7905,-96.8104
+fake_181,nba,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,Portland,OR,2028-05-27T19:00Z,45.5316,-122.6668
+fake_182,nba,Indiana Pacers,Brooklyn Nets,Gainbridge Fieldhouse,Indianapolis,IN,2028-08-18T19:00Z,39.7639,-86.1555
+fake_183,nfl,Los Angeles Rams,Atlanta Hawks,SoFi Stadium,Inglewood,CA,2027-02-15T19:00Z,33.9535,-118.3392
+fake_184,nba,San Antonio Spurs,Arizona Cardinals,Frost Bank Center,San Antonio,TX,2027-02-01T19:00Z,29.4269,-98.4375
+fake_185,nba,Milwaukee Bucks,Washington Commanders,Fiserv Forum,Milwaukee,WI,2027-03-07T19:00Z,43.045,-87.9172
+fake_186,nba,Indiana Pacers,Portland Trail Blazers,Gainbridge Fieldhouse,Indianapolis,IN,2027-10-19T19:00Z,39.7639,-86.1555
+fake_187,nba,Orlando Magic,Indianapolis Colts,Kia Center,Orlando,FL,2027-01-03T19:00Z,28.5392,-81.3839
+fake_188,nba,New York Knicks,Orlando Magic,Madison Square Garden,New York,NY,2028-03-03T19:00Z,40.7505,-73.9934
+fake_189,nfl,Atlanta Falcons,Milwaukee Bucks,Mercedes-Benz Stadium,Atlanta,GA,2027-01-15T19:00Z,33.7554,-84.4008
+fake_190,nba,Denver Nuggets,Philadelphia 76ers,Ball Arena,Denver,CO,2028-12-13T19:00Z,39.7487,-105.0077
+fake_191,nba,Charlotte Hornets,Houston Rockets,Spectrum Center,Charlotte,NC,2028-11-14T19:00Z,35.2251,-80.8392
+fake_192,nba,LA Clippers,Atlanta Hawks,Intuit Dome,Inglewood,CA,2027-03-09T19:00Z,33.9425,-118.3411
+fake_193,nba,Indiana Pacers,Dallas Mavericks,Gainbridge Fieldhouse,Indianapolis,IN,2027-01-20T19:00Z,39.7639,-86.1555
+fake_194,nba,Orlando Magic,Sacramento Kings,Kia Center,Orlando,FL,2027-11-10T19:00Z,28.5392,-81.3839
+fake_195,nba,Los Angeles Lakers,Philadelphia 76ers,crypto.com Arena,Los Angeles,CA,2028-01-03T19:00Z,34.043,-118.2673
+fake_196,nba,LA Clippers,Houston Rockets,Intuit Dome,Inglewood,CA,2027-07-07T19:00Z,33.9425,-118.3411
+fake_197,nba,Cleveland Cavaliers,New York Jets,Rocket Arena,Cleveland,OH,2027-11-26T19:00Z,41.4965,-81.6882
+fake_198,nba,Dallas Mavericks,Green Bay Packers,American Airlines Center,Dallas,TX,2027-07-26T19:00Z,32.7905,-96.8104
+fake_199,nfl,Kansas City Chiefs,Miami Heat,Arrowhead Stadium,Kansas City,MO,2028-09-26T19:00Z,39.0489,-94.4839
