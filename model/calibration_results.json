@@ -1,0 +1,28 @@
+{
+  "target_precision": 0.99,
+  "target_recall_floor": 0.98,
+  "match_threshold": 0.96,
+  "review_floor": 0.07142857142857142,
+  "val": {
+    "precision_at_match_threshold": 0.9914651493598862,
+    "recall_at_match_threshold": 0.8745294855708908,
+    "target_reachable_on_val": true
+  },
+  "test": {
+    "n_test_listings": 919,
+    "n_test_listings_with_true_match_in_candidates": 798,
+    "auto_accept_precision_ACTUAL": 0.9971014492753624,
+    "auto_accept_n": 690,
+    "auto_accept_recall_of_recoverable_positives": 0.8621553884711779,
+    "tier_volume_counts_per_listing": {
+      "auto": 690,
+      "agentic": 124,
+      "no_match": 105
+    },
+    "tier_volume_pct_per_listing": {
+      "auto": 0.750816104461371,
+      "agentic": 0.13492927094668117,
+      "no_match": 0.11425462459194777
+    }
+  }
+}
