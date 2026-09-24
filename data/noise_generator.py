@@ -19,6 +19,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
+from team_abbreviations import TEAM_ABBREVIATIONS
 from venue_aliases import VENUE_ALIASES
 
 RAW_DIR = Path(__file__).parent / "raw"
@@ -26,30 +27,6 @@ PROC_DIR = Path(__file__).parent / "processed"
 PROC_DIR.mkdir(exist_ok=True)
 
 RNG_SEED = 42
-
-TEAM_ABBREVIATIONS = {
-    "Los Angeles Lakers": "LAL", "Boston Celtics": "BOS", "Golden State Warriors": "GSW",
-    "Los Angeles Clippers": "LAC", "Miami Heat": "MIA", "Milwaukee Bucks": "MIL",
-    "Denver Nuggets": "DEN", "Phoenix Suns": "PHX", "Dallas Mavericks": "DAL",
-    "Philadelphia 76ers": "PHI", "New York Knicks": "NYK", "Brooklyn Nets": "BKN",
-    "Chicago Bulls": "CHI", "Cleveland Cavaliers": "CLE", "Atlanta Hawks": "ATL",
-    "Toronto Raptors": "TOR", "Memphis Grizzlies": "MEM", "New Orleans Pelicans": "NOP",
-    "Sacramento Kings": "SAC", "Minnesota Timberwolves": "MIN", "Oklahoma City Thunder": "OKC",
-    "Portland Trail Blazers": "POR", "Utah Jazz": "UTA", "San Antonio Spurs": "SAS",
-    "Houston Rockets": "HOU", "Indiana Pacers": "IND", "Detroit Pistons": "DET",
-    "Charlotte Hornets": "CHA", "Washington Wizards": "WAS", "Orlando Magic": "ORL",
-    "Kansas City Chiefs": "KC", "Buffalo Bills": "BUF", "San Francisco 49ers": "SF",
-    "Dallas Cowboys": "DAL", "Philadelphia Eagles": "PHI", "Green Bay Packers": "GB",
-    "New England Patriots": "NE", "Seattle Seahawks": "SEA", "Baltimore Ravens": "BAL",
-    "Detroit Lions": "DET", "Miami Dolphins": "MIA", "New York Jets": "NYJ",
-    "New York Giants": "NYG", "Pittsburgh Steelers": "PIT", "Cincinnati Bengals": "CIN",
-    "Cleveland Browns": "CLE", "Tennessee Titans": "TEN", "Indianapolis Colts": "IND",
-    "Jacksonville Jaguars": "JAX", "Houston Texans": "HOU", "Denver Broncos": "DEN",
-    "Los Angeles Chargers": "LAC", "Las Vegas Raiders": "LV", "Los Angeles Rams": "LAR",
-    "Arizona Cardinals": "ARI", "Minnesota Vikings": "MIN", "Chicago Bears": "CHI",
-    "Atlanta Falcons": "ATL", "Carolina Panthers": "CAR", "New Orleans Saints": "NO",
-    "Tampa Bay Buccaneers": "TB", "Washington Commanders": "WAS",
-}
 
 HTML_ENTITY_MAP = {" ": "&nbsp;", "'": "&#39;", "&": "&amp;"}
 KEYBOARD_NEIGHBORS = {
