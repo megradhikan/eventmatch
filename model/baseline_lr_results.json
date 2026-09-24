@@ -1,0 +1,54 @@
+{
+  "features": [
+    "str_lev_ratio_raw",
+    "str_lev_ratio_norm",
+    "str_jaro_winkler_raw",
+    "str_jaro_winkler_norm",
+    "str_token_jaccard_raw",
+    "str_token_jaccard_norm",
+    "str_token_sort_ratio_raw",
+    "str_token_sort_ratio_norm"
+  ],
+  "n_features": 8,
+  "val": {
+    "threshold_0.5": {
+      "precision": 0.16534740545294635,
+      "recall": 0.7076537013801757,
+      "f1": 0.26806083650190116
+    },
+    "best_f1_on_pr_curve": {
+      "precision": 0.3784530386740331,
+      "recall": 0.5156838143036386,
+      "f1": 0.43653744025442415,
+      "threshold": 0.8486956805423651
+    },
+    "n_pairs": 15160,
+    "n_positive": 797
+  },
+  "test": {
+    "threshold_0.5": {
+      "precision": 0.16256870118599942,
+      "recall": 0.7042606516290727,
+      "f1": 0.26415981198589894
+    },
+    "best_f1_on_pr_curve": {
+      "precision": 0.3798730734360834,
+      "recall": 0.525062656641604,
+      "f1": 0.4408206207254466,
+      "threshold": 0.8505149048683668
+    },
+    "n_pairs": 14935,
+    "n_positive": 798
+  },
+  "coefficients": {
+    "str_lev_ratio_raw": -4.886743651554301,
+    "str_lev_ratio_norm": -3.607659762331255,
+    "str_jaro_winkler_raw": 1.9456076249582364,
+    "str_jaro_winkler_norm": 5.880237694846114,
+    "str_token_jaccard_raw": 2.483778852036236,
+    "str_token_jaccard_norm": -0.13456601204507668,
+    "str_token_sort_ratio_raw": -2.5635524266040113,
+    "str_token_sort_ratio_norm": 9.06834547892433
+  },
+  "intercept": -5.496304297365183
+}
